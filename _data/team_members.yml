@@ -1,6 +1,6 @@
 - name: Xiangliang Zhang
   photo: Milan1.jpg
-  info: Leonard C. Bettex Collegiate Professor of Computer Science at University of Notre Dame
+  info: Leonard C. Bettex Collegiate Professor of Computer Science at University of Notre Dame (<a href="https://sites.nd.edu/xiangliang-zhang/">Website</a>)
   email: xzhang33@nd.edu
   number_educ: 0
   # education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
@@ -9,71 +9,3 @@
   # education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
   # education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
 
-- name: Kehan Guo
-  photo: Jiasen.png
-  info: PhD Student, started September 2022
-  email: niu@physics.leidenuniv.nl
-  number_educ: 0
-  education1: 
-
-- name: Taicheng Guo
-  photo: Sato.jpeg
-  info: xxxxxxxxxxxxxxxxxxxxxxx
-  email: jwlee0421@postech.ac.kr
-  number_educ: 0
-  education1: 
-
-- name: Yujun Zhou
-  photo: tjeruk.jpg
-  info: PhD Student, started 2023 Spring
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
-
-- name: Tianyu Yang
-  photo: MengLi.jpg
-  info: xxxxxxxxxxxxxxxxxxxxxxx
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Yili Shen
-  photo: Thomas.jpg
-  info: xxxxxxxxxxxxxxxxxxxxxxx
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Haomin Zhuang
-  photo: Amber.png
-  info: PhD Student, started 2024 Spring
-  email: b
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:
-  education4:
-
-- name: Yue Huang
-  photo: Maialen.png
-  info: PhD Student, started 2024 Fall
-  email: b
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:
-  education4:
-
-- name: Xiangqi Wang
-  photo: Sanghun.jpg
-  info: PhD Student
-  email: b
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:
-  education4:
