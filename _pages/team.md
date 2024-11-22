@@ -145,13 +145,25 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
+  <!-- Render the member photo if it exists -->
+  {% if member.photo %}
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% endif %}
+  
+  <!-- Render the member name as a clickable Markdown-style link -->
+  <h4>
+    {{ member.name | markdownify }}
+  </h4>
+  
+  <!-- Render the role information with Markdown-style links -->
+  <i>
+    {{ member.info | markdownify }}
+  </i>
+  
+  <ul style="overflow: hidden"></ul>
 </div>
+
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 
