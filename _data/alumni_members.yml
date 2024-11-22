@@ -1,12 +1,8 @@
-# - name: Irene Battisti
-#   photo: irene.jpg
-#   info: PhD student
-#   duration: In the MINE Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
-#   email: Battisti@Physics.LeidenUniv.nl
-#   number_educ: 3
-#   education1: Master Padova University
-#   education2: Master thesis at University of Notre Dame with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-#   education3: PhD University of Notre Dame, prize for reseacher of the year at the Science faculty
+- name: Zhenwen Liang
+  photo: irene.jpg
+  info: PhD graduate
+  duration: In the MINE Lab Jan 2019 to June 2024, now Research Scientist at [Tencent AI Lab, Seattle](https://ai.tencent.com/ailab/en/index)
+
 
 # - name: Doohee Cho
 #   photo: Doohee2.jpg
