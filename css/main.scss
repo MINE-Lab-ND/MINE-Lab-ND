@@ -91,3 +91,21 @@ firstp {
     margin-right: 30px;
 }
 
+img {
+	display: block;
+	max-width: 100%;
+  }
+  
+  img[alt=""] {
+	display: none; /* Hides empty or broken images */
+  }
+  
+  img:not([src]) {
+	display: none; /* Hides images with missing or invalid src */
+  }
+  
+  .alumn img {
+	border: none; /* Removes any default image border or frame */
+	margin: 0;
+	padding: 0;
+  }
