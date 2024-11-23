@@ -29,7 +29,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh; text-align: center;">
   <!-- Center the image -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" style="width: 50%; margin-bottom: 20px;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" style="width: 25%; margin-bottom: 20px;" />
   
   <!-- Member info below the image -->
   <h4>{{ member.name }}</h4>
