@@ -135,13 +135,29 @@ permalink: /team/
 
 ## Alumni
 
-
 <div class="col-sm-6 clearfix">
-{% for member in site.data.alumni_members %}
-{{ member.name }}
-{% endfor %}
-</div>
+  {% for member in site.data.alumni_members %}
+    <div class="member-entry">
+      <!-- Render the member name -->
+      <h4>
+        {% if member.name %}
+          {{ member.name | markdownify }}
+        {% else %}
+          Unknown Member
+        {% endif %}
+      </h4>
 
+      <!-- Render the member info -->
+      <p>
+        {% if member.info %}
+          {{ member.info | markdownify }}
+        {% else %}
+          Role information not available.
+        {% endif %}
+      </p>
+    </div>
+  {% endfor %}
+</div>
 
 ## Former visitors, BSc/ MSc students
 <div class="row">
