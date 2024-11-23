@@ -16,7 +16,7 @@ We are deeply invested in developing **foundation models** that combine state-of
 
 ### AI for Science
 
-In the domain of **AI for Science**, our lab explores the intersection of artificial intelligence with chemistry and social science. We aim to apply AI models (e.g., generative models) to accelerate advancements in molecular design, reaction prediction, and material discovery. Recently, we have extended our focus to the application of these techs in social sciences. Using large-scale social data and model-based simulation, we aim to uncover patterns in individual behavior, social norms, and public policy impacts. By blending machine learning with social science theories, we provide data-driven insights for decision-making, enabling solutions to socioeconomic challenges and enhancing the effectiveness of public governance.
+In the domain of **AI for Science**, our lab explores the intersection of artificial intelligence with chemistry and social science. We aim to apply AI models (e.g., generative models) to accelerate advancements in molecular design, reaction prediction, and material discovery. Recently, we have extended our focus to the application of these techs in social sciences. Using large-scale social data and model-based simulation, we aim to uncover patterns in individual behavior, social norms, and public policy impacts.
 
 ### Graph-Based Learning for Real-World Problem Solving
 

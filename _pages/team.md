@@ -164,10 +164,9 @@ permalink: /team/
 </div>
 {% endif %}
 
-<!-- Add a separator and align the new section -->
-<hr style="margin: 30px 0;">
-<h2 style="text-align: left; margin-bottom: 20px;">Pets Scholars</h2>
-<div style="clear: both;"></div>
+
+## Pets Scholars
+
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_pets %}
