@@ -51,6 +51,6 @@ permalink: /vacancies
   
   <!-- Closing Statement -->
   <p style="text-align: center; font-size: 1.2em; font-weight: bold; margin-top: 30px;">
-    Join us to collaborate and advance the frontiers of AI research!
+    Join us to collaborate and advance the frontiers of AI research🔥🔥🔥!
   </p>
 </div>
