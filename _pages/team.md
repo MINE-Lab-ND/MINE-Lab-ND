@@ -10,12 +10,12 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%;">
 </div>
 
+<div style="margin-top: 100px;"></div>
 
 <div style="text-align: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
-  <!-- Title -->
   <h2 style="text-align: center; padding-top: 30px; font-family: Arial, sans-serif; margin-bottom: 20px;">Principal Investigator</h2>
   <div style="margin-bottom: 20px; display: flex; justify-content: center; align-items: center;">
-    <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" alt="Group photo" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd; margin-right: 20px;">
+    <img class="group-pic" src="https://github.com/MINE-Lab-ND/MINE-Lab-ND.github.io/blob/gh-pages/images/xzhang.jpg" alt="Group photo" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd; margin-right: 20px;">
   </div>
 
   <!-- Name and Title -->
