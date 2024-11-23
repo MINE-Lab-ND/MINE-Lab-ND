@@ -12,21 +12,20 @@ permalink: /team/
 
 
    <pre style="white-space: pre-wrap;">
-   This is a line.
-   
-   This is another line with a blank line above.
+    
+    
+
    </pre>
 
-   
+
 
 <div style="text-align: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
-  <!-- Title -->
   <h2 style="text-align: center; padding-top: 30px; font-family: Arial, sans-serif;">Principal Investigator</h2>
-  <div style="margin-bottom: 20px; display: flex; justify-content: center; align-items: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" 
-         alt="Xiangliang Zhang" 
-         style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
+
+  <div class="image-cropper,style=margin-bottom: 20px; display: flex; justify-content: center; align-items: center;">
+  <img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" alt="xiangliang zhang"/>
   </div>
+
 
   <!-- Name and Title -->
   <h4><b>Xiangliang Zhang</b></h4>
