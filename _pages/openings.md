@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # 🌟 Research Collaboration Opportunity for Aspiring Scholars  
 
-We are inviting **motivated undergraduates**, **master’s students**, and **PhD students** to join our research collaboration program. This is an opportunity to work on cutting-edge topics in AI with strong guidance and access to computational resources, aiming for high-quality research outcomes.  
+We are inviting **motivated undergraduates**, **master’s students**, and **PhD students** to join our research collaboration program. This is an opportunity to work on cutting-edge topics in AI with strong guidance and access to computational resources, aiming for high-quality research outcomes.   
 
 ## Research Focus  
 - Trustworthy LLMs: Fairness, robustness, and reliability in large language models.  
