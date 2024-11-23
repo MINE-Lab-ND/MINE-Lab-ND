@@ -19,20 +19,18 @@ permalink: /pictures/
 </div>
 <i>{{ photo.description }}</i>
 </div>
-</div>
-<div class="row">
 
 
 <div class="row">
   <div class="col-sm-6">
-    <div class="well text-center">
-      <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/grouppic/2023group.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-    </div>
+    <div style="display: flex; justify-content: center;">
+    <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/2023group.jpg" alt="Group photo"/>
+</div>
   </div>
   <div class="col-sm-6">
-    <div class="well text-center">
-      <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/grouppic/church.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-    </div>
+    <div style="display: flex; justify-content: center;">
+    <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/church.jpg" alt="Group photo"/>
+</div>
   </div>
 </div>
 
