@@ -32,11 +32,15 @@ permalink: /research/
 
 ### Socially Impactful and Trustworthy Foundation Models
 
-We are deeply invested in developing **foundation models** that combine state-of-the-art performance with societal responsibility. As foundational models become central to AI innovation, we aim to ensure that these powerful tools are not only efficient but also trustworthy, transparent, and accountable. We design models that can drive progress in critical areas like medicine, healthcare, education, and more.
+Our research focuses on the principled understanding and development of **foundation models**, with an emphasis on achieving state-of-the-art performance while upholding societal responsibility. A key aspect of our work is advancing the trustworthy interpretation of models, particularly in the context of generative models. Additionally, we investigate strategies to improve alignment and general intelligence in foundation models, seeking to harmonize their objectives with human values. Ultimately, we aim to harness the transformative potential of foundation models to drive meaningful progress across critical downstream domains, including medicine, healthcare, education, and beyond.
+
+Recent Work: [HonestLLM@NeurIPS'24](https://openreview.net/forum?id=F7tGQ7b10q), [TrustLLM@ICML'24](https://icml.cc/virtual/2024/poster/33637), [Adversarial Robustness@ICML'24](https://icml.cc/virtual/2024/poster/34854), [Jailbreak@EMNLP'24](https://arxiv.org/abs/2402.13148), [Multilingual Alignment@EMNLP'24](https://aclanthology.org/2024.emnlp-main.743/), [RAt@EMNLP'24](https://aclanthology.org/2024.emnlp-main.1144.pdf), [LeMon@KDD'24](https://dl.acm.org/doi/10.1145/3637528.3671850), [FaDE@CIKM'24](https://dl.acm.org/doi/10.1145/3627673.3679737)
 
 ### AI for Science
 
 In the domain of **AI for Science**, our lab explores the intersection of artificial intelligence with chemistry and social science. We aim to apply AI models (e.g., generative models) to accelerate advancements in molecular design, reaction prediction, and material discovery. Recently, we have extended our focus to the application of these techs in social sciences. Using large-scale social data and model-based simulation, we aim to uncover patterns in individual behavior, social norms, and public policy impacts.
+
+Recent Work: [MolPuzzle@NeurIPS'24(Spotlight)](https://kehanguo2.github.io/Molpuzzle.io/), [SceMQA@ACL'24](https://arxiv.org/abs/2402.05138), [ChemLLMBench@NeurIPS'24](https://arxiv.org/abs/2305.18365), [Chemical Reaction@WWW'24](https://arxiv.org/abs/2402.05971), [Multimodal Molecular@AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/28668/29297), [Molecular Graphs@IEEE ICASSP'24](https://ieeexplore.ieee.org/document/10447350), [Think as People@IEEE ICASSP'24](https://ieeexplore.ieee.org/document/10446024)
 
 ### Graph-Based Learning for Real-World Problem Solving
 
