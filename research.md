@@ -40,6 +40,8 @@ Recent Work: [HonestLLM@NeurIPS'24](https://openreview.net/forum?id=F7tGQ7b10q),
 
 In the domain of **AI for Science**, our lab explores the intersection of artificial intelligence with chemistry and social science. We aim to apply AI models (e.g., generative models) to accelerate advancements in molecular design, reaction prediction, and material discovery. Recently, we have extended our focus to the application of these techs in social sciences. Using large-scale social data and model-based simulation, we aim to uncover patterns in individual behavior, social norms, and public policy impacts.
 
+Recent Work: [MolPuzzle@NeurIPS'24(Spotlight)](https://kehanguo2.github.io/Molpuzzle.io/), [SceMQA@ACL'24](https://arxiv.org/abs/2402.05138), [ChemLLMBench@NeurIPS'24](https://arxiv.org/abs/2305.18365), [Chemical Reaction@WWW'24](https://arxiv.org/abs/2402.05971), [Multimodal Molecular@AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/28668/29297), [Molecular Graphs@IEEE ICASSP'24](https://ieeexplore.ieee.org/document/10447350), [Think as People@IEEE ICASSP'24](https://ieeexplore.ieee.org/document/10446024)
+
 ### Graph-Based Learning for Real-World Problem Solving
 
 Graph-based learning is a cornerstone of our lab's efforts to address complex real-world challenges. Many real-world problems, such as social networks, recommendation systems, or molecular structures, can be represented as graphs. Our research applies graph-based methods to tasks like drug discovery, recommendation system, and knowledge graph construction, leveraging the structure of graph data to uncover patterns and improve decision-making across diverse domains.
