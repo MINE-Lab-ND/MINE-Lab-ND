@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# 🌟 Research Collaboration Opportunity: Build Your Academic Legacy Together!
+# 🌟 Research Collaboration Opportunity
 
 Are you a **dedicated and research-oriented** scholar ready to push the boundaries of AI? We are inviting talented **undergraduates**, **master’s students**, and **PhD candidates** to join our **remote collaboration program**, where innovation meets productivity. This is your chance to contribute to **top-tier publications** (e.g., one first-author paper in a leading conference or journal) while working on cutting-edge research with abundant support and computational resources.
 
