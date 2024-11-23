@@ -9,7 +9,7 @@ permalink: /publications/
 <div class="logo-container" style="text-align: center; margin-top: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" 
        alt="MINE Lab" 
-       style="max-width: 40%; height: auto;">
+       style="max-width: 50%; height: auto;">
 </div>
 
 <!-- Spacer to Add Room Below the Logo -->

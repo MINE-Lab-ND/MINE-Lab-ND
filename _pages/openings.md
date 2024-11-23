@@ -6,11 +6,14 @@ sitemap: false
 permalink: /vacancies
 ---
 
-<div style="position: absolute; top: 2px; left: 2px; max-width: 400px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%;">
+<div class="logo-container" style="text-align: center; margin-top: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" 
+       alt="MINE Lab" 
+       style="max-width: 50%; height: auto;">
 </div>
 
-<div style="margin-top: 150px;"></div>
+<!-- Spacer to Add Room Below the Logo -->
+<div style="margin-top: 50px;"></div>
 
 
 # 🌟 Join MINE Lab: Research Collaboration Opportunity 

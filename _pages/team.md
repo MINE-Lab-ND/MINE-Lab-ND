@@ -8,7 +8,7 @@ permalink: /team/
 
 <!-- Logo Section -->
 <div class="logo-container" style="text-align: center; margin-top: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="max-width: 40%; height: auto; border: none;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="max-width: 50%; height: auto; border: none;">
 </div>
 
 <!-- Spacer to Add Room Below the Logo -->

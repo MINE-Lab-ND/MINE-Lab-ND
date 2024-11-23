@@ -9,7 +9,7 @@ permalink: /research/
 <div class="logo-container" style="text-align: center; margin-top: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" 
        alt="MINE Lab" 
-       style="max-width: 40%; height: auto;">
+       style="max-width: 50%; height: auto;">
 </div>
 
 <!-- Spacer to Add Room Below the Logo -->
@@ -19,7 +19,7 @@ permalink: /research/
 <div style="font-family: Arial, sans-serif; text-align: justify; padding: 0 20px;">
   <h2 style="text-align: left; font-family: Arial, sans-serif; margin-bottom: 20px;">Research</h2>
   <p>
-    MINE Lab is dedicated to advancing cutting-edge artificial intelligence technologies.Our work bridges theoretical innovation and practical applications across diverse domains. focusing on three main areas:
+    MINE Lab is dedicated to advancing cutting-edge artificial intelligence technologies.Our work bridges theoretical innovation and practical applications across diverse domains, focusing on three main areas:
     <br>
     <strong>• Building socially impactful and trustworthy foundation models</strong>
     <br>
