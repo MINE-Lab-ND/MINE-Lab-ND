@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-<div style="position: absolute; top: 20px; left: 20px; max-width: 200px;">
+<div style="position: absolute; top: 5px; left: 5px; max-width: 400px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%;">
 </div>
 
