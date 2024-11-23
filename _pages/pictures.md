@@ -5,7 +5,7 @@ excerpt: "MINE Lab -- Pictures"
 permalink: /pictures/
 ---
 <div style="position: absolute; top: 2px; left: 2px; max-width: 400px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%; border: none;">
 </div>
 
 <div style="margin-top: 150px;"></div>

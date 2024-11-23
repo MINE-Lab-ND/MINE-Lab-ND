@@ -54,7 +54,7 @@
   highlight: 1
 
 - title: "SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering"
-  image: 
+  image: sasrnet.pngzzzz
   description: We introduce SaSR-Net, a source-aware semantic representation network to enhance performance in audio-visual question answering tasks.
   authors: Tianyu Yang, Yiyang Nan, Lisen Dai, Zhenwen Liang, Yapeng Tian, Xiangliang Zhang
   link:
@@ -231,13 +231,4 @@
   link:
     url: https://doi.org/10.1109/TNNLS.2022.3190359
     display: IEEE Transactions on Neural Networks and Learning Systems, 2024
-  highlight: 1
-
-- title: "Write Summary Step-by-Step: A Pilot Study of Stepwise Summarization"
-  image: 
-  description: We study a stepwise approach to summarization, generating summaries incrementally for improved coherence.
-  authors: Xiuying Chen, Shen Gao, Mingzhe Li, Qingqing Zhu, Xin Gao, Xiangliang Zhang
-  link:
-    url: https://doi.org/10.1109/TASLP.2024.3357040
-    display: IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024
   highlight: 1
