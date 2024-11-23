@@ -11,12 +11,10 @@ permalink: /team/
 <div style="text-align: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
   <!-- Title -->
   <h2 style="text-align: center; padding-top: 30px;">Principal Investigator</h2>
-  <div style="margin-bottom: 20px; text-align: center;">
-    <div class="image-cropper" style="display: inline-block; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/xzhang.jpg"
-           alt="Xiangliang Zhang" 
-           style="width: 200px; height: 200px; object-fit: cover; border-radius: 100%; border: 4px solid #ddd;">
-    </div>
+  <div style="margin-bottom: 20px; display: flex; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/xzhang.jpg"
+        alt="Xiangliang Zhang" 
+        style="width: 200px; height: 200px; object-fit: cover; border-radius: 100%; border: 4px solid #ddd;">
   </div>
 
   <!-- Name and Title -->
@@ -37,7 +35,7 @@ permalink: /team/
 
 
 <p>
-  We invite open research collaborations! Check out our opening [here](https://mine-lab-nd.github.io/vacancies)</a>. 
+  We invite open research collaborations! Check out our opening [here](https://mine-lab-nd.github.io/vacancies). 
 </p>
 
 
