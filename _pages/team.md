@@ -16,9 +16,9 @@ permalink: /team/
   <div style="margin-bottom: 20px; display: flex; justify-content: center; align-items: center;">
     <img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" alt="xiangliang zhang" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
   </div>
+  
 </div>
 
-  <!-- Name and Title -->
   <h4><b>Xiangliang Zhang</b></h4>
   <i>
     Leonard C. Bettex Collegiate Professor <br>
