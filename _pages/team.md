@@ -135,10 +135,8 @@ permalink: /team/
 
 ## Alumni
 
-<div class="row">
 
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
+<div class="col-sm-6 clearfix">
 {% for member in site.data.alumni_members %}
 {{ member.name }}
 {% endfor %}
