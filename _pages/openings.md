@@ -31,6 +31,6 @@ Are you a **dedicated and research-oriented** scholar ready to push the boundari
 If you’re passionate about **trustworthy AI**, **AI for Science**, and advancing **reasoning** research, we’d love to hear from you.
 
 ## How to Apply?
-Send a brief introduction of yourself, your background, and your research interests to **[yue.huang@example.com](mailto:yhuang37@nd.edu)**. For inquiries about potential internships, feel free to contact Yue Huang directly.
+Send a brief introduction of yourself, your background, and your research interests to **[yhuang3@nd.edu](mailto:yhuang3@nd.edum)**. Yue Huang from our group is currently responsible for **screening intern applications** and will be your point of contact for any internship-related inquiries.
 
 **🔗 Join us and make your mark in the world of AI research.**
