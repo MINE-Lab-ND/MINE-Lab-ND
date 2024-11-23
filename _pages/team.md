@@ -27,12 +27,12 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh; text-align: center;">
   <!-- Center the image -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" width="100%" style="margin: 0 auto; display: block;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" style="width: 50%; margin-bottom: 20px;" />
   
   <!-- Member info below the image -->
-  <h4 style="margin-top: 15px;">{{ member.name }}</h4>
+  <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
 </div>
   <ul style="overflow: hidden">
