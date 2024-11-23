@@ -11,6 +11,14 @@ permalink: /team/
 </div>
 
 
+   <pre style="white-space: pre-wrap;">
+   This is a line.
+   
+   This is another line with a blank line above.
+   </pre>
+
+   
+
 <div style="text-align: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
   <!-- Title -->
   <h2 style="text-align: center; padding-top: 30px; font-family: Arial, sans-serif;">Principal Investigator</h2>
