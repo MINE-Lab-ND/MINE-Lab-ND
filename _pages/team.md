@@ -16,7 +16,7 @@ permalink: /team/
 
   <!-- Profile Image -->
   <div style="margin-bottom: 20px;">
-    <img src="path/to/image.jpg" alt="Xiangliang Zhang" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
+    <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/xzhang.jpg" alt="Xiangliang Zhang" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
   </div>
 
   <!-- Name and Title -->
@@ -25,14 +25,14 @@ permalink: /team/
   <p style="font-size: 1.1em; margin: 5px 0;">Department of Computer Science and Engineering</p>
 
   <!-- Social Links -->
-  <div style="margin: 20px 0;">
+  <!-- <div style="margin: 20px 0;">
     <a href="mailto:example@domain.com" style="text-decoration: none; margin-right: 15px;">
       <img src="path/to/email-icon.png" alt="Email" style="width: 24px; height: 24px;">
     </a>
     <a href="https://linkedin.com/in/connorwcoley" style="text-decoration: none;">
       <img src="path/to/linkedin-icon.png" alt="LinkedIn" style="width: 24px; height: 24px;">
     </a>
-  </div>
+  </div> -->
 
   <!-- Description -->
   <div style="text-align: justify; line-height: 1.6; font-size: 1em; margin-top: 20px;">
@@ -72,7 +72,10 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" width="50%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" 
+     class="img-responsive" 
+     style="width: 150px; height: 150px; float: left;" />
+     
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
