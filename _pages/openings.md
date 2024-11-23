@@ -18,12 +18,12 @@ permalink: /vacancies
 
 <!-- Main Content -->
 <div style="font-family: Arial, sans-serif; text-align: justify; padding: 0 20px;">
-  <h1 style="text-align: center; margin-bottom: 20px;">🌟 Join MINE Lab: Research Collaboration Opportunity</h1>
+  <h2 style="text-align: center; margin-bottom: 20px;">🌟 Join MINE Lab: Research Collaboration Opportunity</h1>
 
-  <h4>
+  <p>
     We are inviting <strong>motivated undergraduates</strong>, <strong>master's students</strong>, and <strong>PhD students</strong> to join our research collaboration program. 
     This is an opportunity to work on cutting-edge topics in AI with strong guidance and access to computational resources, aiming for high-quality research outcomes.
-  </h4>
+  </p>
 
   <!-- Research Focus Section -->
   <h2 style="margin-top: 30px;">Research Focus</h2>
@@ -31,18 +31,18 @@ permalink: /vacancies
 
   <!-- Eligibility Section -->
   <h2 style="margin-top: 30px;">Who Can Join</h2>
-  <h4>
+  <p>
     • Have <strong>strong coding skills</strong> to implement research ideas.<br>
     • Are <strong>productive</strong> and focused on achieving impactful results.<br>
     • Share a passion for solving challenging AI problems.
-  </h4>
+  </p>
 
   <!-- Application Process Section -->
   <h2 style="margin-top: 30px;">Application Process</h2>
-  <h4>
+  <p>
     If you are interested, please complete this <a href="https://forms.gle/PYBtziFuXmKKodsD9" target="_blank"><strong>Google Form</strong></a> 
     and provide a brief introduction, your background, and research interests.
     <br><br>
     <strong>Join us to collaborate and advance the frontiers of AI research!</strong>
-  </h4>
+  </p>
 </div>
