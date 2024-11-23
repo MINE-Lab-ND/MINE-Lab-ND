@@ -5,17 +5,27 @@ excerpt: "MINE Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
-
-<div style="position: absolute; top: 2px; left: 2px; max-width: 400px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: auto; height: auto;">
+<!-- Logo Section -->
+<div class="logo-container" style="text-align: center; margin-top: 20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" 
+       alt="MINE Lab" 
+       style="max-width: 100%; height: auto;">
 </div>
 
-<div style="margin-top: 150px;"></div>
+<!-- Spacer to Add Room Below the Logo -->
+<div style="margin-top: 50px;"></div>
 
-
-# Research
-
-MINE Lab is dedicated to advancing cutting-edge artificial intelligence technologies, focusing on three main areas: 1) building socially impactful and trustworthy foundation models, 2) exploring AI for Science (particularly in chemistry and social science), and 3) leveraging graph-based learning to solve real-world problems. Our work bridges theoretical innovation and practical applications across diverse domains.
+<!-- Research Section -->
+<div style="font-family: Arial, sans-serif; text-align: justify; padding: 0 20px;">
+  <h2 style="text-align: center; font-family: Arial, sans-serif; margin-bottom: 20px;">Research</h2>
+  <p>
+    MINE Lab is dedicated to advancing cutting-edge artificial intelligence technologies, focusing on three main areas:
+    1) building socially impactful and trustworthy foundation models, 
+    2) exploring AI for Science (particularly in chemistry and social science), and 
+    3) leveraging graph-based learning to solve real-world problems. 
+    Our work bridges theoretical innovation and practical applications across diverse domains.
+  </p>
+</div>
 
 ### Socially Impactful and Trustworthy Foundation Models
 
