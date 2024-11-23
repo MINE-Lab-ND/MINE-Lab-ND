@@ -7,8 +7,7 @@ permalink: /team/
 ---
 
 <div style="position: absolute; top: 20px; left: 20px; max-width: 200px;">
-  <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/
-images/logo.png" alt="MINE Lab" style="width: 100%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%;">
 </div>
 
 
@@ -16,7 +15,7 @@ images/logo.png" alt="MINE Lab" style="width: 100%;">
   <!-- Title -->
   <h2 style="text-align: center; padding-top: 30px; font-family: Arial, sans-serif;">Principal Investigator</h2>
   <div style="margin-bottom: 20px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/xzhang.jpg" 
+    <img src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" 
          alt="Xiangliang Zhang" 
          style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
   </div>
