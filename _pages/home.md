@@ -10,9 +10,9 @@ permalink: /
 
 <div style="flex: 6; padding-right: 20px;">
 
-Welcome to Machine Intelligence and kNowledge Engineering (MINE) lab that is directed by Prof. Xiangliang Zhang in the department of Computer Science and Engineering at the University of Notre Dame. Our mission is to enable ​computer machines to​ learn through experience and by the use of data. We are also called data “miners”. We pursue the most advanced Artificial Intelligence technology to enable knowledge advancement in a variety of fields.
+Welcome to the Machine Intelligence and kNowledge Engineering (MINE) lab, directed by Prof. Xiangliang Zhang in the Department of Computer Science and Engineering at the University of Notre Dame. In our lab, "MINE" signifies more than just its acronym. It represents the ownership of innovation, the discovery of hidden insights, and the pursuit of untapped potential—much like mining precious resources. Our mission is to enable computer machines to learn through experience and data, fostering breakthroughs in Artificial Intelligence that power knowledge advancement across diverse fields. We see ourselves as data "miners," uncovering the treasure troves of knowledge buried in information.
 
-Welcome motivated Ph.D. candidates to join us at the MINE lab at Notre Dame!
+At the MINE lab, we cultivate a spirit of curiosity and exploration, where ideas are not just developed—they are owned and celebrated as "mine." If you are a motivated Ph.D. candidate ready to claim your place in shaping the future of AI, we welcome you to join the MINE lab at Notre Dame!
 
 </div>
 
