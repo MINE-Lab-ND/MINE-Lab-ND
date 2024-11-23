@@ -160,6 +160,9 @@ permalink: /team/
 {% if even_odd == 1 %}
 {% endif %}
 
+<!-- Add a separator or margin for better visual alignment -->
+<hr style="margin: 30px 0;">
+
 
 ## Pets Scholars
 {% assign number_printed = 0 %}
