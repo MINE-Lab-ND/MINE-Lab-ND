@@ -27,29 +27,29 @@ permalink: /pictures/
 <div class="row">
   <div class="col-sm-6">
     <div style="display: flex; justify-content: center;">
-    <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/2023group.jpg" alt="Group photo"/>
+    <img class="group-pic" src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/2023group.jpg" alt="Group photo"/>
     </div>
   </div>
   <div class="col-sm-6">
     <div style="display: flex; justify-content: center;">
-    <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/church.jpg" alt="Group photo"/>
+    <img class="group-pic" src="{https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/grouppic/church.jpg" alt="Group photo"/>
   </div>
 </div>
 
 <div class="row">
   <div class="col-sm-4">
     <div class="well text-center">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/grouppic/bbq2023.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/grouppic/bbq2023.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
     </div>
   </div>
   <div class="col-sm-4">
     <div class="well text-center">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/grouppic/holiday2023.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/grouppic/holiday2023.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
     </div>
   </div>
   <div class="col-sm-4">
     <div class="well text-center">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/grouppic/discussion2023.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/grouppic/discussion2023.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
     </div>
   </div>
 </div>

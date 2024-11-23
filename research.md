@@ -32,7 +32,7 @@ permalink: /research/
 
 ### Socially Impactful and Trustworthy Foundation Models
 
-We are deeply invested in developing **foundation models** that combine state-of-the-art performance with societal responsibility. As foundational models become central to AI innovation, we aim to ensure that these powerful tools are not only efficient but also trustworthy, transparent, and accountable. We design models that can drive progress in critical areas like medicine, healthcare, education, and more.
+We are deeply working on understanding and developing **foundation models** that combine state-of-the-art performance with societal responsibility. As foundational models become central to AI innovation, we aim to ensure that these powerful tools are not only efficient but also trustworthy, transparent, and accountable. We design models that can drive progress in critical areas like medicine, healthcare, education, and more.
 
 ### AI for Science
 
