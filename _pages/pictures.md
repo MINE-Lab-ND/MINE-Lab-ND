@@ -25,12 +25,12 @@ permalink: /pictures/
   <div class="col-sm-6">
     <div style="display: flex; justify-content: center;">
     <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/2023group.jpg" alt="Group photo"/>
-</div>
+    </div>
   </div>
   <div class="col-sm-6">
     <div style="display: flex; justify-content: center;">
     <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/church.jpg" alt="Group photo"/>
-</div>
+    </div>
   </div>
 </div>
 

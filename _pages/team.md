@@ -19,7 +19,7 @@ permalink: /team/
   </div>
 
   <!-- Name and Title -->
-  <h4 style="margin-top: 20px;"><b>Xiangliang Zhang</b></h4>
+  <h4 style="margin-top: 10px;"><b>Xiangliang Zhang</b></h4>
   <i style="margin-bottom: 20px;">
     Leonard C. Bettex Collegiate Professor <br>
     Department of Computer Science and Engineering <br>
@@ -191,7 +191,7 @@ permalink: /team/
 
 ## Former visitors, BSc/ MSc students
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-12 clearfix">
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
