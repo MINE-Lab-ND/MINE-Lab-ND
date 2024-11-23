@@ -22,15 +22,13 @@ permalink: /team/
 
   <!-- Profile Image -->
   <div style="margin-bottom: 20px;">
-    <img src="path/to/image.jpg" alt="Connor W. Coley" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
+    <img src="path/to/image.jpg" alt="Xiangliang Zhang" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
   </div>
 
   <!-- Name and Title -->
-  <h2 style="font-size: 1.8em; font-weight: bold; margin-bottom: 10px;">Connor W. Coley</h2>
-  <p style="font-size: 1.1em; margin: 5px 0;">Associate Professor (Without Tenure)</p>
-  <p style="font-size: 1.1em; margin: 5px 0;">Class of 1957 Career Development Professor</p>
-  <p style="font-size: 1.1em; margin: 5px 0;">Department of Chemical Engineering</p>
-  <p style="font-size: 1.1em; margin: 5px 0;">Department of Electrical Engineering and Computer Science</p>
+  <h2 style="font-size: 1.8em; font-weight: bold; margin-bottom: 10px;">Xiangliang Zhang</h2>
+  <p style="font-size: 1.1em; margin: 5px 0;"> Leonard C. Bettex Collegiate Professor</p>
+  <p style="font-size: 1.1em; margin: 5px 0;">Department of Computer Science and Engineering</p>
 
   <!-- Social Links -->
   <div style="margin: 20px 0;">
