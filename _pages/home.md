@@ -40,6 +40,8 @@ Welcome motivated Ph.D. candidates to join us at the MINE lab at Notre Dame!
 
 **Jul. 2024** Two papers are accepted by CIKM 2024, one paper is accepted by USENIX Security 2024, and one paper is accepted by  Journal of the American Chemical Society (JACS).
 
+**Jul. 2024** Dr. Zhang is the co-investigator of the first Seed Transformative Interdisciplinary Research (STIR) grants (Project: atomic scale analog computing and physical neural networks).
+
 **May. 2024** Congratulations to Ziyi! The 15th PhD graduated from our lab, with his thesis--Exploring Trustworthy Concerns in Computer Vision: From Deterministic To Generative Domains. 
 
 **May. 2024** Two paper are accepted by ICML 2024, one paper is accepted by ACL 2024, two papers are accepted by KDD 2024, and one paper is accepted by IJCAI 2024. Congratulations to Yue Huang, Yujun, Taicheng, Zhenwen and Ziyi.
@@ -53,6 +55,14 @@ Welcome motivated Ph.D. candidates to join us at the MINE lab at Notre Dame!
 **Sep. 2023** One paper is acccepted by NeurIPS 2024, and one paper is accpted by CIKM 2023.
 
 **Sep. 2023** PI Dr. Zhang is awarded another NSF grant (1.5 million US dollars) for the research project of Exploiting Federal Data and Beyond: A Multi-modal Knowledge Network for Comprehensive Wildlife Management under Climate Change.
+
+**Aug. 2023** PI Dr. Zhang is awarded an NSF grant (1 million US dollars) for the research project of Cybertraining for Chemical Data scientists, abbreviated as C2D.
+
+**Aug. 2023** Dr. Zhang is the co-chair of [WSDM’24 Demo](https://www.wsdm-conference.org/2024/call-for-demonstrations/) (Due: Sep 24, 2023). Accepted papers will be included in the WSDM’24 proceedings.
+
+**Aug. 2023** Dr. Zhang is the co-chair of [User Modeling and Recommendation track at The Web Conference 2024](https://www2024.thewebconf.org/calls/research-tracks/). (Due: Oct 5 (abstract), Oct 12 (full-paper), 2023)
+
+**Aug. 2023** Dr. Zhang is the Editor-in-Chief of [SIGKDD Explorations](https://dl.acm.org/newsletter/sigkdd) (the December 2023 issue is accepting submission of surveys, news, opinion papers, vision papers and so on).
 
 **May. 2023** Two papers are accpted by KDD 2023 and three papers are accepted by ACL 2023.
 
