@@ -10,20 +10,17 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%;">
 </div>
 
-<!-- Main Content -->
-<div style="text-align: center; margin: 150px auto 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
+
+<div style="text-align: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
   <!-- Title -->
-  <h2 style="text-align: center; padding-top: 30px; font-family: Arial, sans-serif;">Principal Investigator</h2>
-  
-  <!-- Profile Image -->
+  <h2 style="text-align: center; padding-top: 30px; font-family: Arial, sans-serif; margin-bottom: 20px;">Principal Investigator</h2>
   <div style="margin-bottom: 20px; display: flex; justify-content: center; align-items: center;">
-    <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" alt="Group photo" 
-         style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
+    <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" alt="Group photo" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd; margin-right: 20px;">
   </div>
-</div>
+
   <!-- Name and Title -->
-  <h4><b>Xiangliang Zhang</b></h4>
-  <i>
+  <h4 style="margin-top: 20px;"><b>Xiangliang Zhang</b></h4>
+  <i style="margin-bottom: 20px;">
     Leonard C. Bettex Collegiate Professor <br>
     Department of Computer Science and Engineering <br>
   </i>
