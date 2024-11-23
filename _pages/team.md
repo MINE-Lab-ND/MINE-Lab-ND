@@ -16,7 +16,9 @@ permalink: /team/
 
   <!-- Profile Image -->
   <div style="margin-bottom: 20px;">
-    <img src="src={{ site.url }}{{ site.baseurl }}/images/xzhang.ipg" alt="Xiangliang Zhang" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" 
+        alt="Xiangliang Zhang" 
+        style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
   </div>
 
   <!-- Name and Title -->
@@ -164,7 +166,7 @@ permalink: /team/
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" 
      class="img-responsive" 
      style="width: 150px; height: 150px; float: left;" />
-     
+
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
