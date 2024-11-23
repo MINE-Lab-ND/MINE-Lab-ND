@@ -32,7 +32,9 @@ permalink: /research/
 
 ### Socially Impactful and Trustworthy Foundation Models
 
-We are deeply working on understanding and developing **foundation models** that combine state-of-the-art performance with societal responsibility. As foundational models become central to AI innovation, we aim to ensure that these powerful tools are not only efficient but also trustworthy, transparent, and accountable. We design models that can drive progress in critical areas like medicine, healthcare, education, and more.
+Our research focuses on the principled understanding and development of **foundation models**, with an emphasis on achieving state-of-the-art performance while upholding societal responsibility. A key aspect of our work is advancing the trustworthy interpretation of models, particularly in the context of generative models. Additionally, we investigate strategies to improve alignment and general intelligence in foundation models, seeking to harmonize their objectives with human values. Ultimately, we aim to harness the transformative potential of foundation models to drive meaningful progress across critical downstream domains, including medicine, healthcare, education, and beyond.
+
+Recent Work: [HonestLLM@NeurIPS'24](https://openreview.net/forum?id=F7tGQ7b10q), [TrustLLM@ICML'24](https://icml.cc/virtual/2024/poster/33637), [Adversarial Robustness@ICML'24](https://icml.cc/virtual/2024/poster/34854), [Jailbreak@EMNLP'24](https://arxiv.org/abs/2402.13148), [Multilingual Alignment@EMNLP'24](https://aclanthology.org/2024.emnlp-main.743/), [RAt@EMNLP'24](https://aclanthology.org/2024.emnlp-main.1144.pdf), [LeMon@KDD'24](https://dl.acm.org/doi/10.1145/3637528.3671850), [FaDE@CIKM'24](https://dl.acm.org/doi/10.1145/3627673.3679737)
 
 ### AI for Science
 
