@@ -139,24 +139,10 @@ permalink: /team/
   {% for member in site.data.alumni_members %}
     <div class="member-entry">
       <!-- Render the member name -->
-      <h4>
-        {% if member.name %}
-          {{ member.name | markdownify }}
-        {% else %}
-          Unknown Member
-        {% endif %}
-      </h4>
-
-      <!-- Render the member info -->
-      <p>
-        {% if member.info %}
-          {{ member.info | markdownify }}
-        {% else %}
-          Role information not available.
-        {% endif %}
-      </p>
-    </div>
-  {% endfor %}
+    <h4>{{ member.name }}</h4>
+    <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+    <ul style="overflow: hidden">
+    </ul>
 </div>
 
 ## Former visitors, BSc/ MSc students
