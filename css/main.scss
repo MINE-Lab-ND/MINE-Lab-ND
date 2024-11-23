@@ -19,7 +19,13 @@ figcaption {
     margin-bottom: 20px;
 }
 
-
+.uniform-size {
+	width: 150px; /* 设置统一宽度 */
+	height: 150px; /* 设置统一高度 */
+	object-fit: cover; /* 确保内容适应宽高比例 */
+	border-radius: 10px; /* 可选，圆角 */
+  }
+  
 
 /* Top navigation bar */
 
