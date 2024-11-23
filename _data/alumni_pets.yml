@@ -5,6 +5,17 @@
   number_educ: 0
   education1: ""
 
+
+
+
+- name: "Post-snack-toral Researcher: Donna"
+  photo: donna
+  info: "Donna, a remarkable Shih Tzu, serves as the principal investigator in the MINE Lab’s Comfort Optimization Department. Her research interests include blanket layering strategies, lap-warming efficiency, and the physics of toy displacement during playtime. Donna is currently working on an innovative study titled, “The Science of Cozy: Maximizing Comfort in Shared Living Spaces.”"
+  email: cat@cat.edu
+  number_educ: 0
+  education1: ""
+
+
 - name: "Purr-graduate Fellow: Cat"
   photo: placeholder.png
   info: "XXX is pursuing her Meow-ster's Degree in Cozy Spot Optimization and String Theory (literally). Her academic contributions include pioneering studies in 'keyboard occupation during work hours' and 'lap-warming methodologies.' Luna’s extracurricular interests include bird-watching from the lab window and testing the gravitational properties of objects on tables."
