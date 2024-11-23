@@ -13,7 +13,7 @@ permalink: /team/
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
-## Faculty
+## Principal Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -135,7 +135,7 @@ permalink: /team/
 
 ## Alumni
 {% assign number_printed = 0 %}
-{% for member in site.data.alunmi_members %}
+{% for member in site.data.alumni_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
