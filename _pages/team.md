@@ -18,7 +18,7 @@ permalink: /team/
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data. %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -27,12 +27,12 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh; text-align: center;">
   <!-- Center the image -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" width="100%" style="margin: 0 auto; display: block;" />
-  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" style="width: 50%; margin-bottom: 20px;" />
+
   <!-- Member info below the image -->
-  <h4 style="margin-top: 15px;">{{ member.name }}</h4>
+  <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
 </div>
   <ul style="overflow: hidden">
@@ -97,7 +97,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive uniform-size" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" width="50%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -183,7 +183,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" width="50%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">

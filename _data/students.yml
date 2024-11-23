@@ -6,7 +6,7 @@
   education1: 
 
 - name: Taicheng Guo
-  photo: Sato.jpeg
+  photo: placeholder.png
   info: PhD Student, started 2023 Spring (<a href="https://taichengguo.github.io/">Website</a>)
   email: tguo2@nd.edu
   number_educ: 0
@@ -30,7 +30,7 @@
   education2: 
 
 - name: Yili Shen
-  photo: Thomas.jpg
+  photo: placeholder.png
   info: PhD Student, started 2023 Fall (<a href="https://yilish.github.io/">Website</a>)
   email: yshen7@nd.edu
   number_educ: 0
@@ -38,7 +38,7 @@
   education2: 
 
 - name: Haomin Zhuang
-  photo: Amber.png
+  photo: placeholder.png
   info: PhD Student, started 2024 Spring (<a href="https://zhmzm.github.io/">Website</a>)
   email: hzhuang2@nd.edu
   number_educ: 0
