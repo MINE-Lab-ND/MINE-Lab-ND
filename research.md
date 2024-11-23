@@ -19,11 +19,14 @@ permalink: /research/
 <div style="font-family: Arial, sans-serif; text-align: justify; padding: 0 20px;">
   <h2 style="text-align: left; font-family: Arial, sans-serif; margin-bottom: 20px;">Research</h2>
   <p>
-    MINE Lab is dedicated to advancing cutting-edge artificial intelligence technologies, focusing on three main areas:
+    MINE Lab is dedicated to advancing cutting-edge artificial intelligence technologies.Our work bridges theoretical innovation and practical applications across diverse domains. focusing on three main areas:
+    <br>
     <strong>• Building socially impactful and trustworthy foundation models</strong>
+    <br>
     <strong>• Exploring AI for Science (particularly in chemistry and social science)</strong>  
+    <br>
     <strong>• Leveraging graph-based learning to solve real-world problems</strong>
-    Our work bridges theoretical innovation and practical applications across diverse domains.
+    <br>
   </p>
 
 </div>
