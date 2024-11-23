@@ -34,7 +34,7 @@ permalink: /research/
 
 Our research focuses on the principled understanding and development of **foundation models**, with an emphasis on achieving state-of-the-art performance while upholding societal responsibility. A key aspect of our work is advancing the trustworthy interpretation of models, particularly in the context of generative models. Additionally, we investigate strategies to improve alignment and general intelligence in foundation models, seeking to harmonize their objectives with human values. Ultimately, we aim to harness the transformative potential of foundation models to drive meaningful progress across critical downstream domains, including medicine, healthcare, education, and beyond.
 
-Recent Work: [HonestLLM@NeurIPS'24](https://openreview.net/forum?id=F7tGQ7b10q), [TrustLLM@ICML'24](https://icml.cc/virtual/2024/poster/33637), [Adversarial Robustness@ICML'24](https://icml.cc/virtual/2024/poster/34854), [Jailbreak@EMNLP'24](https://arxiv.org/abs/2402.13148), [Multilingual Alignment@EMNLP'24](https://aclanthology.org/2024.emnlp-main.743/), [RAt@EMNLP'24](https://aclanthology.org/2024.emnlp-main.1144.pdf), [LeMon@KDD'24](https://dl.acm.org/doi/10.1145/3637528.3671850), [FaDE@CIKM'24](https://dl.acm.org/doi/10.1145/3627673.3679737)
+Recent Work: [HonestLLM@NeurIPS'24](https://openreview.net/forum?id=F7tGQ7b10q), [TrustLLM@ICML'24](https://icml.cc/virtual/2024/poster/33637), [Adversarial Robustness@ICML'24](https://icml.cc/virtual/2024/poster/34854), [Jailbreak@EMNLP'24](https://arxiv.org/abs/2402.13148), [Multilingual Alignment@EMNLP'24](https://aclanthology.org/2024.emnlp-main.743/), [RAt@EMNLP'24](https://aclanthology.org/2024.emnlp-main.1144.pdf), [LeMon@KDD'24](https://dl.acm.org/doi/10.1145/3637528.3671850), [FaDE@CIKM'24](https://dl.acm.org/doi/10.1145/3627673.3679737), [Backdoor Attacks@USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24/presentation/lyu), [Backdoor Attacks@KDD'24](https://dl.acm.org/doi/abs/10.1145/3637528.3671956)
 
 ### AI for Science
 
@@ -45,5 +45,7 @@ Recent Work: [MolPuzzle@NeurIPS'24(Spotlight)](https://kehanguo2.github.io/Molpu
 ### Graph-Based Learning for Real-World Problem Solving
 
 Graph-based learning is a cornerstone of our lab's efforts to address complex real-world challenges. Many real-world problems, such as social networks, recommendation systems, or molecular structures, can be represented as graphs. Our research applies graph-based methods to tasks like drug discovery, recommendation system, and knowledge graph construction, leveraging the structure of graph data to uncover patterns and improve decision-making across diverse domains.
+
+Recent Work: [Graph Prompt Learning@KDD'24](https://dl.acm.org/doi/abs/10.1145/3637528.3671956), [Molecular Graphs@IEEE ICASSP'24](https://ieeexplore.ieee.org/document/10447350), [Knowledge Graph@KDD'23](https://kdd.org/kdd2023/), [Graph Learning@KDD'23](https://kdd.org/kdd2023/), [Knowledge Graph@ACL'23](https://aclanthology.org/2023.findings-acl.455/)
 
 <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/sponsor.png" alt="Example Image" style="width: 100%; height: auto;">
