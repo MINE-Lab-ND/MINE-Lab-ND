@@ -73,7 +73,9 @@ permalink: /team/
 </div>
 {% endif %}
 
- **We are calling for open research collaboration, Undergraduate and Master students to join the team** **!**
+<p>
+  We invite open research collaborations! Undergraduate and Master's students are encouraged to send their CVs via <a href="mailto:kguo2@nd.edu">email</a>. 
+</p>
 
 
 
@@ -162,9 +164,8 @@ permalink: /team/
 
 <!-- Add a separator or margin for better visual alignment -->
 <hr style="margin: 30px 0;">
-
-
-## Pets Scholars
+<h2 style="text-align: left; margin-bottom: 20px;">Pets Scholars</h2>
+<div style="clear: both;"></div>
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_pets %}
 
