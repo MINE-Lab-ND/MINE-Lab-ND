@@ -6,17 +6,21 @@ sitemap: false
 permalink: /team/
 ---
 
-<div style="position: absolute; top: 20px; left: 20px; max-width: 400px;">
+<div style="position: absolute; top: 2px; left: 2px; max-width: 400px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%;">
 </div>
 
-<div style="text-align: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
+<!-- Main Content -->
+<div style="text-align: center; margin: 150px auto 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
   <!-- Title -->
   <h2 style="text-align: center; padding-top: 30px; font-family: Arial, sans-serif;">Principal Investigator</h2>
+  
+  <!-- Profile Image -->
   <div style="margin-bottom: 20px; display: flex; justify-content: center; align-items: center;">
-  <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" alt="Group photo" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
+    <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" alt="Group photo" 
+         style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
   </div>
-
+</div>
   <!-- Name and Title -->
   <h4><b>Xiangliang Zhang</b></h4>
   <i>
