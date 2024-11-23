@@ -22,7 +22,6 @@ We welcome **dedicated researchers** who:
 - Share a passion for solving challenging AI problems.  
 
 ## Application Process  
-If you are interested, please complete this **[Google Form](https://forms.gle/your-form-link)** and provide a brief introduction, your background, and research interests. Yue Huang is responsible for reviewing applications and handling related inquiries.  
-
+If you are interested, please complete this **[Google Form](https://forms.gle/your-form-link)** and provide a brief introduction, your background, and research interests. 
 **Join us to collaborate and advance the frontiers of AI research!**
 
