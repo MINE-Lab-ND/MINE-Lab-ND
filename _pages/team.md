@@ -13,8 +13,8 @@ permalink: /team/
   <h2 style="text-align: center; padding-top: 30px; font-family: Arial, sans-serif;">Principal Investigator</h2>
   <div style="margin-bottom: 20px; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/xzhang.jpg" 
-      alt="Xiangliang Zhang" 
-      style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
+         alt="Xiangliang Zhang" 
+         style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
   </div>
 
   <!-- Name and Title -->
