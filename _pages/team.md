@@ -148,8 +148,7 @@ permalink: /team/
        style="width: 150px; height: 150px; float: left; margin-right: 15px;" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
-  <ul style="overflow: hidden"></ul>
-</div>
+  <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
