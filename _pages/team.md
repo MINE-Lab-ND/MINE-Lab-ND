@@ -11,10 +11,7 @@ permalink: /team/
 <div style="text-align: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
   <!-- Title -->
   <h2 style="text-align: center; padding-top: 30px;">Principal Investigator</h2>
-
-  <!-- Profile Image and Social Links -->
   <div style="margin-bottom: 20px; text-align: center;">
-    <!-- Profile Image -->
     <div class="image-cropper" style="display: inline-block; margin-bottom: 10px;">
       <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/xzhang.jpg"
            alt="Xiangliang Zhang" 
