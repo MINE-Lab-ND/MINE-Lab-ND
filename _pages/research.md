@@ -9,7 +9,7 @@ permalink: /research/
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%;">
 </div>
 
-<div style="margin-top: 120px;"></div>
+<div style="margin-top: 150px;"></div>
 
 # Research
 
