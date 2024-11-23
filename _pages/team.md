@@ -44,12 +44,13 @@ permalink: /team/
 
   <!-- Description -->
   <p style="text-align: justify; line-height: 1.6; font-size: 1em; margin-top: 20px;">
-    Xiangliang Zhang is the Class of 1957 Career Development Professor and an Associate Professor without tenure at MIT 
-    in the Department of Chemical Engineering and the Department of Electrical Engineering and Computer Science. 
-    He received his B.S. and Ph.D. in Chemical Engineering from Caltech and MIT, respectively, and did his postdoctoral 
-    training at the Broad Institute. His research group at MIT works at the interface of chemistry and data science to 
-    develop models that understand how molecules behave, interact, and react and use that knowledge to engineer new ones, 
-    with an emphasis on therapeutic discovery.
+    Dr. Zhang is a Leonard C. Bettex Collegiate Professor of Computer Science at University of Notre Dame, where she is leading a Machine Intelligence and kNowledge Engineering (MINE) group.
+
+    Her research broadly addresses ways that enable ​computer machines to​ learn by the use of diverse types of data. Specifically, she is interested in designing machine learning algorithms for learning from complex and large-scale streaming data and graph data, with applications to recommendation systems, knowledge discovery, and natural language understanding. Her recent research notably advances the application of AI in scientific disciplines such as Chemistry, Biology and Physics. More information can be found in the publications grouped by research problems, or the full list of over 200 peer-reviewed papers.
+
+    She was invited to deliver an Early Career Spotlight talk at IJCAI-ECAI 2018. In 2009, she was awarded the European Research Consortium for Informatics and Mathematics (ERCIM) Alain Bensoussan Fellowship. She regularly serve on the Program Committee for premier conferences like SIGKDD (Area Chair, Senior PC), AAAI (Area Chair, Senior PC), IJCAI (Area Chair, Senior PC), etc. She also serves as Editor-in-Chief of ACM SIGKDD Explorations, associated editor for IEEE Transactions on Dependable and Secure Computing (TDSC) and Information Sciences.
+
+    Prior to joining the University of Notre Dame, she was an Associate Professor in Computer Science at KAUST, Saudi Arabia. She completed her Ph.D. degree in computer science from INRIA-University Paris-Sud, France, in July 2010. She received her master and bachelor degrees from Xi’an Jiaotong University, China.
   </p>
 </div>
 
