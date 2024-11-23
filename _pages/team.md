@@ -16,7 +16,7 @@ permalink: /team/
 
   <!-- Profile Image -->
   <div style="margin-bottom: 20px;">
-    <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/xzhang.jpg" alt="Xiangliang Zhang" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
+    <img src="src={{ site.url }}{{ site.baseurl }}/images/xzhang.ipg" alt="Xiangliang Zhang" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
   </div>
 
   <!-- Name and Title -->

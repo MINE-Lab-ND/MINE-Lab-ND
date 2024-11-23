@@ -32,7 +32,7 @@ At the MINE lab, we cultivate a spirit of curiosity and exploration, where ideas
 
 **Nov. 2024** One paper is accepted by WSDM Demo 2025. Congratulations to Xiangqi.
 
-**Sep. 2024** Three papers are accepted by NeurIPS 2024 (1 highlight and 2 poster). Congratulations to Kehan and Yue Huang. 
+**Sep. 2024** Three papers are accepted by NeurIPS 2024 (1 spotlight and 2 poster). Congratulations to Kehan and Yue Huang. 
 
 **Sep. 2024** Four papers are accepted by EMNLP 2024. Congratulations to Yujun, Yue Huang, Ziyi and Tianyu. 
 
