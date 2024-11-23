@@ -6,7 +6,11 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+<div style="position: absolute; top: 20px; left: 20px; max-width: 200px;">
+  <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/
+images/logo.png" alt="MINE Lab" style="width: 100%;">
+</div>
+
 
 <div style="text-align: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
   <!-- Title -->
@@ -16,10 +20,6 @@ permalink: /team/
          alt="Xiangliang Zhang" 
          style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #ddd;">
   </div>
-
-
-  <div style="flex: 4; text-align: center;">
-
 
   <!-- Name and Title -->
   <h4><b>Xiangliang Zhang</b></h4>
