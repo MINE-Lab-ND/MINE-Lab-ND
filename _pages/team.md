@@ -139,10 +139,19 @@ permalink: /team/
   {% for member in site.data.alumni_members %}
     <div class="member-entry">
       <!-- Render the member name -->
-    <h4>{{ member.name }}</h4>
-    <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-    <ul style="overflow: hidden">
-    </ul>
+      <h4>{{ member.name }}</h4>
+
+      <!-- Render the member info -->
+      <i>
+        {{ member.info }}
+        <!-- Uncomment and adjust this line if the email field is used -->
+        <!-- <br>Email: <a href="mailto:{{ member.email }}">{{ member.email }}</a> -->
+      </i>
+
+      <!-- Empty unordered list (optional) -->
+      <ul style="overflow: hidden"></ul>
+    </div>
+  {% endfor %}
 </div>
 
 ## Former visitors, BSc/ MSc students
