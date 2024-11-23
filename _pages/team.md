@@ -34,12 +34,11 @@ permalink: /team/
   </p>
 </div>
 
-
-
-
 <p>
   **We invite open research collaborations!** Check out our opening [here](https://mine-lab-nd.github.io/vacancies). 
 </p>
+
+<div style="margin-top: 25px;"></div>
 
 <div style="margin-top: 25px;"></div>
 
