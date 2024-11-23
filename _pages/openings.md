@@ -6,36 +6,31 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# 🌟 Research Collaboration Opportunity: Build Your Academic Legacy Together!
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+Are you a **dedicated and research-oriented** scholar ready to push the boundaries of AI? We are inviting talented **undergraduates**, **master’s students**, and **PhD candidates** to join our **remote collaboration program**, where innovation meets productivity. This is your chance to contribute to **top-tier publications** (e.g., one first-author paper in a leading conference or journal) while working on cutting-edge research with abundant support and computational resources.
 
-We are  looking for new group members with passion, talent, and grit!
+## Why Collaborate With Us?
+- **Two-Way Freedom**: A collaboration model designed for flexibility and mutual growth—fully remote and free to join or leave based on your goals.
+- **Guaranteed Productivity**: Clear milestones, strong guidance, and a focus on producing tangible, high-quality outcomes.
+- **Top Resources, No Limits**: Full access to advanced computational resources to power your research.
+- **Exciting Research Directions**:
+  - **Trustworthy LLMs**: Investigating fairness, robustness, and reliability in large language models.
+  - **AI for Science**: Advancing scientific discovery with innovative AI methods.
+  - **Reasoning and Beyond**: Exploring complex reasoning, decision-making, and beyond.
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+## Who We’re Looking For
+- **Highly Productive Researchers**: Collaboration is outcome-driven—productivity and output are key.
+- **Strong Coders**: Proficiency in programming and the ability to implement research ideas are essential.
+- **Research-Oriented Scholars**: Creative thinkers who can identify challenges, propose solutions, and execute research independently.
 
-### Past open positions
+## Open to All Levels
+- **PhD Candidates**: Collaborate on ambitious projects and expand your research portfolio.
+- **Master’s and Undergraduates**: Strengthen your research experience to prepare for grad school applications or industry roles in **Fall 2025** and beyond.
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
+If you’re passionate about **trustworthy AI**, **AI for Science**, and advancing **reasoning** research, we’d love to hear from you.
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+## How to Apply?
+Send a brief introduction of yourself, your background, and your research interests to **[yue.huang@example.com](mailto:yhuang37@nd.edu)**. For inquiries about potential internships, feel free to contact Yue Huang directly.
 
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
-
-
-### Master projects for University of Notre Dame students
-If you are a Master student at University of Notre Dame looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at University of Notre Dame, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+**🔗 Join us and make your mark in the world of AI research.**
