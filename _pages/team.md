@@ -9,6 +9,11 @@ permalink: /team/
 # Group Members
 
 
+<p>
+  We invite open research collaborations! Undergraduate and Master's students are encouraged to send their CVs via <a href="mailto:minelab.nd.cs@gmail.com">email</a>. 
+</p>
+
+
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 ## Principal Investigator
@@ -72,10 +77,6 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-<p>
-  We invite open research collaborations! Undergraduate and Master's students are encouraged to send their CVs via <a href="mailto:kguo2@nd.edu">email</a>. 
-</p>
 
 
 
