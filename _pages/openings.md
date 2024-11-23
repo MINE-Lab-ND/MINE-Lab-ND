@@ -20,29 +20,29 @@ permalink: /vacancies
 <div style="font-family: Arial, sans-serif; text-align: justify; padding: 0 20px;">
   <h1 style="text-align: center; margin-bottom: 20px;">🌟 Join MINE Lab: Research Collaboration Opportunity</h1>
 
-  <p>
-    We are inviting <strong>motivated undergraduates</strong>, <strong>master’s students</strong>, and <strong>PhD students</strong> to join our research collaboration program. 
+  <h4>
+    We are inviting <strong>motivated undergraduates</strong>, <strong>master's students</strong>, and <strong>PhD students</strong> to join our research collaboration program. 
     This is an opportunity to work on cutting-edge topics in AI with strong guidance and access to computational resources, aiming for high-quality research outcomes.
-  </p>
+  </h4>
 
   <!-- Research Focus Section -->
   <h2 style="margin-top: 30px;">Research Focus</h2>
-  <p>Please refer to <a href="https://mine-lab-nd.github.io/research/">this page</a></p>
+  <h4>Please refer to <a href="https://mine-lab-nd.github.io/research/">this page</a></h4>
 
   <!-- Eligibility Section -->
   <h2 style="margin-top: 30px;">Who Can Join</h2>
-  <ul>
-    <li>Have <strong>strong coding skills</strong> to implement research ideas.</li>
-    <li>Are <strong>productive</strong> and focused on achieving impactful results.</li>
-    <li>Share a passion for solving challenging AI problems.</li>
-  </ul>
+  <h4>
+    • Have <strong>strong coding skills</strong> to implement research ideas.<br>
+    • Are <strong>productive</strong> and focused on achieving impactful results.<br>
+    • Share a passion for solving challenging AI problems.
+  </h4>
 
   <!-- Application Process Section -->
   <h2 style="margin-top: 30px;">Application Process</h2>
-  <p>
+  <h4>
     If you are interested, please complete this <a href="https://forms.gle/PYBtziFuXmKKodsD9" target="_blank"><strong>Google Form</strong></a> 
     and provide a brief introduction, your background, and research interests.
     <br><br>
     <strong>Join us to collaborate and advance the frontiers of AI research!</strong>
-  </p>
+  </h4>
 </div>

@@ -5,11 +5,11 @@ excerpt: "MINE Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
-
+<!-- Logo Section -->
 <div class="logo-container" style="text-align: center; margin-top: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" 
        alt="MINE Lab" 
-       style="max-width: 50%; height: auto;">
+       style="max-width: 50%; height: auto; border: none;">
 </div>
 
 <!-- Spacer to Add Room Below the Logo -->
@@ -32,7 +32,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" margin-right: 10px; style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p> 
@@ -62,7 +62,7 @@ permalink: /publications/
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
 
-## Full List of Publications [(Google Scholar)](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en)
+## "Full List of publications[(See Google Scholar)](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en)"
 
 {% for publi in site.data.publist %}
 
