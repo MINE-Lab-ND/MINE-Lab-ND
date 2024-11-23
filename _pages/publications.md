@@ -12,9 +12,6 @@ permalink: /publications/
 
 <div style="margin-top: 150px;"></div>
 
-
-# Publications
-
 ## Group highlights
 
 **At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?query=xiangliang+zhang&searchtype=author&abstracts=show&order=-announced_date_first&size=50).**
@@ -62,7 +59,7 @@ permalink: /publications/
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
 
-## "Full List of publications[(See Google Scholar)](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en)"
+## Full List of Publications [(Google Scholar)](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en)
 
 {% for publi in site.data.publist %}
 

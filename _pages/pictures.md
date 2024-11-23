@@ -12,30 +12,28 @@ permalink: /pictures/
 
 # Group Photos
 
-## 2024
 
 <div class="row">
   <div class="col-sm-12">
     <div class="well text-center">
       <h4>Spring 2024 Group Photo</h4>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/grouppic/group2024spring.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/grouppic/2024_group.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
     </div>
   </div>
 </div>
 
-## 2023
 
 <div class="row">
   <div class="col-sm-6">
     <div class="well text-center">
       <h4>Fall 2023 Lab Gathering</h4>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/grouppic/group2023fall.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/grouppic/2023group.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
     </div>
   </div>
   <div class="col-sm-6">
     <div class="well text-center">
       <h4>Spring 2023 Welcome Party</h4>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/grouppic/group2023spring.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/grouppic/church.jpg" class="img-responsive" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
     </div>
   </div>
 </div>
