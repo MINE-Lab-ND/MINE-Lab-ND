@@ -38,7 +38,7 @@ permalink: /team/
 
 
 <p>
-  We invite open research collaborations! Check out our opening [here](https://mine-lab-nd.github.io/vacancies). 
+  **We invite open research collaborations!** Check out our opening [here](https://mine-lab-nd.github.io/vacancies). 
 </p>
 
 
