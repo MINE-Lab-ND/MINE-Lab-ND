@@ -41,7 +41,7 @@ permalink: /team/
   **We invite open research collaborations!** Check out our opening [here](https://mine-lab-nd.github.io/vacancies). 
 </p>
 
-
+<div style="margin-top: 25px;"></div>
 
 ## PhD Student
 {% assign number_printed = 0 %}
@@ -57,9 +57,9 @@ permalink: /team/
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" 
      class="img-responsive" 
      style="width: 150px; height: 150px; float: left;" />
-     
-  <h4>{{ member.name }}</h4>
   &nbsp;&nbsp;
+  <h4>{{ member.name }}</h4>
+
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
@@ -147,9 +147,8 @@ permalink: /team/
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" 
      class="img-responsive" 
      style="width: 150px; height: 150px; float: left;" />
-
-  <h4>{{ member.name }}</h4>
   &nbsp;&nbsp;
+  <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
