@@ -27,9 +27,14 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+<div style="text-align: center; margin-bottom: 20px;">
+  <!-- Center the image -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" width="100%" style="margin: 0 auto; display: block;" />
+  
+  <!-- Member info below the image -->
+  <h4 style="margin-top: 15px;">{{ member.name }}</h4>
+  <i>{{ member.info }}</i>
+</div>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -92,7 +97,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -178,7 +183,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
