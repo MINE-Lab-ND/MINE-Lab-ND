@@ -1,6 +1,6 @@
 - title: "Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation"
   image: intro_spectrum.png
-  description: we present MolPuzzle, a benchmark comprising 234 instances of structure elucidation, which features over 18,000 QA samples presented in a sequential puzzle-solving process, involving three interlinked subtasks: molecule understanding, spectrum interpretation, and molecule construction.
+  description: "we present MolPuzzle, a benchmark comprising 234 instances of structure elucidation, which features over 18,000 QA samples presented in a sequential puzzle-solving process, involving three interlinked subtasks: molecule understanding, spectrum interpretation, and molecule construction."
   authors: Kehan Guo, Bozhao Nan, Yujun Zhou, Taicheng Guo, Zhichun Guo, Mihir Surve, Zhenwen Liang, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
   link:
     url: https://kehanguo2.github.io/Molpuzzle.io/
