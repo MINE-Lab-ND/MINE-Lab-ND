@@ -9,7 +9,7 @@ permalink: /research/
 <div class="logo-container" style="text-align: center; margin-top: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" 
        alt="MINE Lab" 
-       style="max-width: 100%; height: auto;">
+       style="max-width: 40%; height: auto;">
 </div>
 
 <!-- Spacer to Add Room Below the Logo -->
@@ -17,14 +17,15 @@ permalink: /research/
 
 <!-- Research Section -->
 <div style="font-family: Arial, sans-serif; text-align: justify; padding: 0 20px;">
-  <h2 style="text-align: center; font-family: Arial, sans-serif; margin-bottom: 20px;">Research</h2>
+  <h2 style="text-align: left; font-family: Arial, sans-serif; margin-bottom: 20px;">Research</h2>
   <p>
     MINE Lab is dedicated to advancing cutting-edge artificial intelligence technologies, focusing on three main areas:
-    1) building socially impactful and trustworthy foundation models, 
-    2) exploring AI for Science (particularly in chemistry and social science), and 
-    3) leveraging graph-based learning to solve real-world problems. 
+    <strong>• Building socially impactful and trustworthy foundation models</strong>
+    <strong>• Exploring AI for Science (particularly in chemistry and social science)</strong>  
+    <strong>• Leveraging graph-based learning to solve real-world problems</strong>
     Our work bridges theoretical innovation and practical applications across diverse domains.
   </p>
+
 </div>
 
 ### Socially Impactful and Trustworthy Foundation Models
