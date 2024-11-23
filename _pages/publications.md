@@ -6,6 +6,12 @@ sitemap: false
 permalink: /publications/
 ---
 
+<div style="position: absolute; top: 2px; left: 2px; max-width: 400px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%;">
+</div>
+
+<div style="margin-top: 120px;"></div>
+
 
 # Publications
 

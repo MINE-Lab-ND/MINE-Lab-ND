@@ -4,6 +4,12 @@ layout: piclay
 excerpt: "MINE Lab -- Pictures"
 permalink: /pictures/
 ---
+<div style="position: absolute; top: 2px; left: 2px; max-width: 400px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%;">
+</div>
+
+<div style="margin-top: 120px;"></div>
+
 
 # Pictures
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
