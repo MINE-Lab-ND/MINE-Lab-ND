@@ -1,3 +1,247 @@
+- title: "Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation"
+  image: intro_spectrum.png
+  description: we present MolPuzzle, a benchmark comprising 234 instances of structure elucidation, which features over 18,000 QA samples presented in a sequential puzzle-solving process, involving three interlinked subtasks: molecule understanding, spectrum interpretation, and molecule construction.
+  authors: Kehan Guo, Bozhao Nan, Yujun Zhou, Taicheng Guo, Zhichun Guo, Mihir Surve, Zhenwen Liang, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
+  link:
+    url: https://kehanguo2.github.io/Molpuzzle.io/
+    display: NeurIPS 2024 Datasets and Benchmarks Track as a <b style="color:#FF0000"><strong>spotlight</strong></b>
+  highlight: 1
+  news1: 
+
+- title: "The Best of Both Worlds: Toward an Honest and Helpful Large Language Model"
+  image: honest_architecture.png
+  description: We first establish several principles for honest LLMs, by refining and extending the previous definition. Based on this, we identify six scenarios where LLMs should maintain honesty and create HONESET, which contains 930 queries, to evaluate the honesty of LLMs.
+  authors: Chujie Gao, Qihui Zhang, Dongping Chen, Yue Huang, Siyuan Wu, Zhengyan Fu, Yao Wan, Xiangliang Zhang, Lichao Sun
+  link:
+    url: https://arxiv.org/abs/2406.00380
+    display: NeurIPS 2024
+  highlight: 1
+
+- title: "Beyond Single Stationary Policies: Meta-Task Players as Naturally Superior Collaborators"
+  image: 
+  description: We propose Meta-Task Players to improve collaboration in multi-agent reinforcement learning by going beyond single stationary policies.
+  authors: Haoming Wang, Zhaoming Tian, Yunpeng Song, Xiangliang Zhang, Zhongmin Cai
+  link:
+    url: https://openreview.net/pdf?id=HpN4xeDJQF
+    display: NeurIPS 2024
+  highlight: 0
+
+- title: "1+1 >2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?"
+  image: 1+1.png
+  description: We introduce a method to enhance the multilingual performance of LLMs by aggregating knowledge from diverse languages. This approach incorporates a low-resource knowledge detector specific to a language, a language selection process, and mechanisms for answer replacement and integration. 
+  authors: Yue Huang, Chenrui Fan, Yuan Li, Siyuan Wu, Tianyi Zhou, Xiangliang Zhang, Lichao Sun
+  link:
+    url: https://arxiv.org/abs/2406.14721
+    display: EMNLP 2024 Main
+  highlight: 1
+
+- title: "Defending Jailbreak Prompts via In-Context Adversarial Game"
+  image: ICAG.png
+  description: Drawing inspiration from adversarial training in deep learning and LLM agent learning processes, we introduce the In-Context Adversarial Game (ICAG) for defending against jailbreaks without the need for fine-tuning. ICAG leverages agent learning to conduct an adversarial game, aiming to dynamically extend knowledge to defend against jailbreaks. 
+  authors: Yujun Zhou, Yufei Han, Haomin Zhuang, Kehan Guo, Zhenwen Liang, Hongyan Bao, Xiangliang Zhang
+  link:
+    url: https://arxiv.org/abs/2402.13148
+    display: EMNLP 2024 Main
+  highlight: 1
+
+- title: "RAt: Injecting Implicit Bias for Text-To-Image Prompt Refinement Models"
+  image: RAt.png
+  description: We study an adversarial prompt attacking problem for T2I-Refine, where to goal is to implicitly inject specific concept bias to the input prompts during the refinement process so that the generated images, still with higher quality, are explicitly biased to the target group.
+  authors: Ziyi Kou, Shichao Pei, Meng Jiang, Xiangliang Zhang
+  link:
+    url: https://aclanthology.org/2024.emnlp-main.1144.pdf
+    display: EMNLP 2024 Main
+  highlight: 1
+
+- title: "SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering"
+  image: 
+  description: We introduce SaSR-Net, a source-aware semantic representation network to enhance performance in audio-visual question answering tasks.
+  authors: Tianyu Yang, Yiyang Nan, Lisen Dai, Zhenwen Liang, Yapeng Tian, Xiangliang Zhang
+  link:
+    url: 
+    display: EMNLP 2024 Findings
+  highlight: 1
+
+- title: "Zero-Shot Relational Learning for Multimodal Knowledge Graphs"
+  image: 
+  description: We propose a zero-shot relational learning approach for multimodal knowledge graphs, enabling relation prediction without training data.
+  authors: Rui Cai, Shichao Pei, Xiangliang Zhang
+  link:
+    url: 
+    display: IEEE Big Data 2024 (Regular paper)
+  highlight: 0
+
+- title: "Data-Efficient, Chemistry-Aware Machine Learning Predictions of Diels–Alder Reaction Outcomes"
+  image: 
+  description: We develop a data-efficient, chemistry-aware machine learning model to predict the outcomes of Diels–Alder reactions.
+  authors: Angus Keto, Taicheng Guo, Morgan Underdue, Thijs Stuyver, Connor W. Coley, Xiangliang Zhang, Elizabeth H. Krenske, Olaf Wiest
+  link:
+    url: https://pubs.acs.org/doi/10.1021/jacs.4c03131
+    display: Journal of the American Chemical Society Vol 146, Issue 23
+  highlight: 0
+
+- title: "Application of Large Language Models in Chemistry Reaction Data Extraction and Cleaning"
+  image: 
+  description: We explore the application of large language models for extracting and cleaning chemical reaction data.
+  authors: Xiaobao Huang, Mihir Surve, Yuhan Liu, Tengfei Luo, Olaf Wiest, Xiangliang Zhang, Nitesh Chawla
+  link:
+    url: https://dl.acm.org/doi/10.1145/3627673.3679874
+    display: CIKM 2024 Short Research Papers Track
+  highlight: 0
+
+- title: "Lurking in the Shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning"
+  image: 
+  description: We expose stealthy backdoor attacks against personalized federated learning and propose effective defenses.
+  authors: Xiaoting Lyu, Yufei Han, Wei Wang, Jingkai Liu, Yongsheng Zhu, Guangquan Xu, Jiqiang Liu, Xiangliang Zhang
+  link:
+    url: https://www.usenix.org/conference/usenixsecurity24/presentation/lyu
+    display: USENIX Security 2024
+  highlight: 0
+
+- title: "FaDE: A Face Segment Driven Identity Anonymization Framework For Fair Face Recognition"
+  image: 
+  description: We present FaDE, a framework for identity anonymization that improves fairness in face recognition systems.
+  authors: Ziyi Kou, Yijun Tian, Meng Jiang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3627673.3679737
+    display: CIKM 2024 Full Research Paper
+  highlight: 1
+
+- title: "Cross-Context Backdoor Attacks against Graph Prompt Learning"
+  image: 
+  description: We investigate cross-context backdoor attacks on graph prompt learning and propose mitigation strategies.
+  authors: Xiaoting Lyu, Yufei Han, Wei Wang, Hangwei Qian, Ivor Tsang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3637528.3671956
+    display: KDD 2024
+  highlight: 0
+
+- title: "LeMon: Automating Portrait Generation for Zero-Shot Story Visualization with Multi-Character Interactions"
+  image: 
+  description: We introduce LeMon, a framework for automating portrait generation in zero-shot story visualization involving multiple character interactions.
+  authors: Ziyi Kou, Shichao Pei, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3637528.3671850
+    display: KDD 2024
+  highlight: 1
+
+- title: "SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark"
+  image: 
+  description: We present SceMQA, a benchmark for evaluating multimodal question answering at a scientific college entrance level.
+  authors: Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, Tianyu Yang, Jiajun Jiao, Renjie Pi, Jipeng Zhang, Xiangliang Zhang
+  link:
+    url: https://arxiv.org/abs/2402.05138
+    display: ACL 2024
+  highlight: 1
+
+- title: "TrustLLM: Trustworthiness in Large Language Models"
+  image: 
+  description: We conduct a comprehensive survey on the trustworthiness of large language models, discussing progress and challenges.
+  authors: Yue Huang et al. (multiple authors including Xiangliang Zhang)
+  link:
+    url: https://icml.cc/virtual/2024/poster/33637
+    display: ICML 2024
+  highlight: 1
+
+- title: "Attack-Free Evaluating and Enhancing Adversarial Robustness on Categorical Data"
+  image: 
+  description: We propose a method to evaluate and enhance adversarial robustness on categorical data without the need for attacks.
+  authors: Yujun Zhou, Yufei Han, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
+  link:
+    url: https://icml.cc/virtual/2024/poster/34854
+    display: ICML 2024
+  highlight: 1
+
+- title: "A Property-Guided Diffusion Model for Generating Molecular Graphs"
+  image: 
+  description: We introduce a property-guided diffusion model to generate molecular graphs with desired chemical properties.
+  authors: Changsheng Ma, Taicheng Guo, Qiang Yang, Xiuying Chen, Xin Gao, Shangsong Liang, Nitesh Chawla, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/10447350
+    display: IEEE ICASSP 2024
+  highlight: 1
+
+- title: "Think as People: Context-Driven Multi-Image News Captioning with Adaptive Dual Attention"
+  image: 
+  description: We propose a context-driven multi-image news captioning model with adaptive dual attention mechanisms.
+  authors: Qiang Yang, Xiaodong Wu, Xiuying Chen, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/10446024
+    display: IEEE ICASSP 2024
+  highlight: 1
+
+- title: "Uncertainty-Aware Yield Prediction with Multimodal Molecular Features"
+  image: 
+  description: We develop an uncertainty-aware model for chemical reaction yield prediction using multimodal molecular features.
+  authors: Jiayuan Chen, Kehan Guo, Zhen Liu, Olexandr Isayev, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/28668/29297
+    display: AAAI 2024
+  highlight: 1
+
+- title: "Are We Making Much Progress? Revisiting Chemical Reaction Yield Prediction from an Imbalanced Regression Perspective"
+  image: 
+  description: We revisit chemical reaction yield prediction by addressing challenges from imbalanced regression perspectives.
+  authors: Yihong Ma, Xiaobao Huang, Bozhao Nan, Nuno Moniz, Xiangliang Zhang, Olaf Wiest, Nitesh V. Chawla
+  link:
+    url: https://arxiv.org/abs/2402.05971
+    display: TheWebConf 2024 (Short paper)
+  highlight: 1
+
+- title: "Flexible and Adaptable Summarization via Expertise Separation"
+  image: 
+  description: We propose a summarization method that separates expertise to achieve flexibility and adaptability in summaries.
+  authors: Xiuying Chen, Mingzhe Li, Shen Gao, Xin Cheng, Qingqing Zhu, Rui Yan, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3626772.3657789
+    display: SIGIR 2024
+  highlight: 1
+
+- title: "Large Language Model Based Multi-Agents: A Survey of Progress and Challenges"
+  image: 
+  description: We survey the progress and challenges of multi-agent systems based on large language models.
+  authors: Xiuying Chen, Mingzhe Li, Shen Gao, Xin Cheng, Qingqing Zhu, Rui Yan, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://arxiv.org/abs/2402.01680
+    display: IJCAI 2024 (Survey Track)
+  highlight: 1
+
+- title: "Causality-Based Fair Multiple Decision by Response Functions"
+  image: 
+  description: We propose a causality-based framework for fair multiple decision-making using response functions.
+  authors: Cong Su, Guoxian Yu, Yongqing Zheng, Jun Wang, Zhengtian Wu, Xiangliang Zhang, Carlotta Domeniconi
+  link:
+    url: https://doi.org/10.1145/3632529
+    display: ACM Transactions on Knowledge Discovery from Data (TKDD), 2024
+  highlight: 1
+
+- title: "Gradient-Based Local Causal Structure Learning"
+  image: 
+  description: We introduce a gradient-based method for local causal structure learning in complex systems.
+  authors: Jiaxuan Liang, Jun Wang, Guoxian Yu, Carlotta Domeniconi, Xiangliang Zhang, Maozu Guo
+  link:
+    url: https://doi.org/10.1109/TCYB.2023.3237635
+    display: IEEE Transactions on Cybernetics, 2024
+  highlight: 1
+
+- title: "Personalized Federated Few-Shot Learning"
+  image: 
+  description: We propose a personalized federated learning framework for few-shot learning scenarios.
+  authors: Yunfeng Zhao, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Maozu Guo, Xiangliang Zhang, Lizhen Cui
+  link:
+    url: https://doi.org/10.1109/TNNLS.2022.3190359
+    display: IEEE Transactions on Neural Networks and Learning Systems, 2024
+  highlight: 1
+
+- title: "Write Summary Step-by-Step: A Pilot Study of Stepwise Summarization"
+  image: 
+  description: We study a stepwise approach to summarization, generating summaries incrementally for improved coherence.
+  authors: Xiuying Chen, Shen Gao, Mingzhe Li, Qingqing Zhu, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://doi.org/10.1109/TASLP.2024.3357040
+    display: IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024
+  highlight: 1
+
 
 - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
   image: ShotNoise.png
