@@ -15,7 +15,7 @@ permalink: /team/
 <div style="text-align: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
   <h2 style="text-align: center; padding-top: 30px; font-family: Arial, sans-serif; margin-bottom: 20px;">Principal Investigator</h2>
   <div style="display: flex; justify-content: center;">
-  <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg}" alt="Group photo"/>
+  <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" alt="Group photo"/>
   </div>
 
   <!-- Name and Title -->
