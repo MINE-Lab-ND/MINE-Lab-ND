@@ -6,31 +6,23 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# 🌟 Research Collaboration Opportunity: Build Your Academic Legacy Together!
+# 🌟 Research Collaboration Opportunity for Aspiring Scholars  
 
-Are you a **dedicated and research-oriented** scholar ready to push the boundaries of AI? We are inviting talented **undergraduates**, **master’s students**, and **PhD candidates** to join our **remote collaboration program**, where innovation meets productivity. This is your chance to contribute to **top-tier publications** (e.g., one first-author paper in a leading conference or journal) while working on cutting-edge research with abundant support and computational resources.
+We are inviting **motivated undergraduates**, **master’s students**, and **PhD students** to join our research collaboration program. This is an opportunity to work on cutting-edge topics in AI with strong guidance and access to computational resources, aiming for high-quality research outcomes.   
 
-## Why Collaborate With Us?
-- **Two-Way Freedom**: A collaboration model designed for flexibility and mutual growth—fully remote and free to join or leave based on your goals.
-- **Guaranteed Productivity**: Clear milestones, strong guidance, and a focus on producing tangible, high-quality outcomes.
-- **Top Resources, No Limits**: Full access to advanced computational resources to power your research.
-- **Exciting Research Directions**:
-  - **Trustworthy LLMs**: Investigating fairness, robustness, and reliability in large language models.
-  - **AI for Science**: Advancing scientific discovery with innovative AI methods.
-  - **Reasoning and Beyond**: Exploring complex reasoning, decision-making, and beyond.
+## Research Focus  
+- Trustworthy LLMs: Fairness, robustness, and reliability in large language models.  
+- AI for Science: Applying AI to drive scientific discovery.  
+- Reasoning: Advancing logical reasoning and decision-making.  
 
-## Who We’re Looking For
-- **Highly Productive Researchers**: Collaboration is outcome-driven—productivity and output are key.
-- **Strong Coders**: Proficiency in programming and the ability to implement research ideas are essential.
-- **Research-Oriented Scholars**: Creative thinkers who can identify challenges, propose solutions, and execute research independently.
+## Who Can Join  
+We welcome **dedicated researchers** who:  
+- Have **strong coding skills** to implement research ideas.  
+- Are **productive** and focused on achieving impactful results.  
+- Share a passion for solving challenging AI problems.  
 
-## Open to All Levels
-- **PhD Candidates**: Collaborate on ambitious projects and expand your research portfolio.
-- **Master’s and Undergraduates**: Strengthen your research experience to prepare for grad school applications or industry roles in **Fall 2025** and beyond.
+## Application Process  
+If you are interested, please complete this **[Google Form](https://forms.gle/your-form-link)** and provide a brief introduction, your background, and research interests. Yue Huang is responsible for reviewing applications and handling related inquiries.  
 
-If you’re passionate about **trustworthy AI**, **AI for Science**, and advancing **reasoning** research, we’d love to hear from you.
+**Join us to collaborate and advance the frontiers of AI research!**
 
-## How to Apply?
-Send a brief introduction of yourself, your background, and your research interests to **[yue.huang@example.com](mailto:yhuang37@nd.edu)**. For inquiries about potential internships, feel free to contact Yue Huang directly.
-
-**🔗 Join us and make your mark in the world of AI research.**
