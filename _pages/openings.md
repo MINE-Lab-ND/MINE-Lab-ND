@@ -20,7 +20,7 @@ permalink: /vacancies
 <div style="font-family: Arial, sans-serif; text-align: justify; padding: 0 20px; line-height: 1.8;">
   
   <!-- Title Section -->
-  <h2 style="text-align: center; font-size: 1.8em; margin-bottom: 20px;">🌟 Join MINE Lab: Research Collaboration Opportunity</h2>
+  <h2 style="text-align: left; font-size: 1.8em; margin-bottom: 20px;">🌟 Join MINE Lab: Research Collaboration Opportunity</h2>
 
   <!-- Introduction Paragraph -->
   <p style="text-align: justify; font-size: 1em; margin-bottom: 30px;">
