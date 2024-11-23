@@ -8,7 +8,7 @@ permalink: /team/
 
 <!-- Logo Section -->
 <div class="logo-container" style="text-align: center; margin-top: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="max-width: 100%; height: auto; border: none;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="max-width: 40%; height: auto; border: none;">
 </div>
 
 <!-- Spacer to Add Room Below the Logo -->
@@ -18,8 +18,7 @@ permalink: /team/
 <div style="text-align: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
   <h2 style="text-align: center; padding-top: 30px; font-family: Arial, sans-serif; margin-bottom: 20px;">Principal Investigator</h2>
   <div style="display: flex; justify-content: center;">
-    <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" alt="Group photo" 
-         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+  <img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/xzhang.jpg" alt="PI photo"/>
   </div>
 
   <!-- Name and Title -->

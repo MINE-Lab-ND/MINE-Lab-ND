@@ -23,7 +23,7 @@ permalink: /research/
     <br>
     <strong>• Building socially impactful and trustworthy foundation models</strong>
     <br>
-    <strong>• Exploring AI for Science (particularly in chemistry and social science)</strong>  
+    <strong>• Exploring AI for Science (particularly in chemistry and social science</strong>  
     <br>
     <strong>• Leveraging graph-based learning to solve real-world problems</strong>
     <br>
