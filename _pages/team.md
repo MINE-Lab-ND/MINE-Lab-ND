@@ -59,6 +59,7 @@ permalink: /team/
      style="width: 150px; height: 150px; float: left;" />
      
   <h4>{{ member.name }}</h4>
+  &nbsp;&nbsp;
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
@@ -148,6 +149,7 @@ permalink: /team/
      style="width: 150px; height: 150px; float: left;" />
 
   <h4>{{ member.name }}</h4>
+  &nbsp;&nbsp;
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
