@@ -135,58 +135,15 @@ permalink: /team/
 
 ## Alumni
 
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
 
-<div class="col-sm-6 clearfix">
-  <!-- Render the member photo if it exists -->
-  {% if member.photo %}
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
-         class="img-responsive" 
-         width="25%" 
-         style="float: left; margin-right: 15px;" />
-  {% endif %}
-  
-  <!-- Render the member name as a clickable Markdown-style link -->
-  <h4>
-    {% if member.name %}
-      {{ member.name | markdownify }}
-    {% else %}
-      Unknown Member
-    {% endif %}
-  </h4>
-  
-  <!-- Render the role information with Markdown-style links -->
-  <i>
-    {% if member.info %}
-      {{ member.info | markdownify }}
-    {% else %}
-      Role information not available.
-    {% endif %}
-  </i>
-  
-  <ul style="overflow: hidden"></ul>
-</div>
-
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
+<div class="col-sm-4 clearfix">
+<h4>Visitors</h4>
+{% for member in site.data.alumni_members %}
+{{ member.name }}
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
+
 
 ## Former visitors, BSc/ MSc students
 <div class="row">
