@@ -22,5 +22,9 @@ In the domain of **AI for Science**, our lab explores the intersection of artifi
 
 Graph-based learning is a cornerstone of our lab's efforts to address complex real-world challenges. Many real-world problems, such as social networks, recommendation systems, or molecular structures, can be represented as graphs. Our research applies graph-based methods to tasks like drug discovery, recommendation system, and knowledge graph construction, leveraging the structure of graph data to uncover patterns and improve decision-making across diverse domains.
 
+<<<<<<< HEAD
+<!-- <img src="https://github.com/MINE-Lab-ND/MINE-Lab-ND.github.io/blob/gh-pages/images/sponsor.png" alt="Example Image" style="width: 100%; height: auto;"> -->
+=======
+>>>>>>> 79d4ea9215c628e2d539f405b0d31dbb13565289
 
 <img src="https://raw.githubusercontent.com/MINE-Lab-ND/MINE-Lab-ND.github.io/refs/heads/gh-pages/images/sponsor.png" alt="Example Image" style="width: 100%; height: auto;">

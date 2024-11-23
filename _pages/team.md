@@ -8,12 +8,6 @@ permalink: /team/
 
 # Group Members
 
-
-<p>
-  We invite open research collaborations! Undergraduate and Master's students are encouraged to send their CVs via <a href="mailto:minelab.nd.cs@gmail.com">email</a>. 
-</p>
-
-
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 <div style="text-align: center; margin: 40px auto; max-width: 800px; font-family: Arial, sans-serif;">
@@ -62,7 +56,9 @@ permalink: /team/
 </div>
 
 
-
+<p>
+  We invite open research collaborations! Undergraduate and Master's students are encouraged to send their CVs via <a href="mailto:minelab.nd.cs@gmail.com">email</a>. 
+</p>
 
 
 ## PhD Student
