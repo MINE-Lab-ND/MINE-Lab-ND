@@ -24,5 +24,5 @@ Graph-based learning is a cornerstone of our lab's efforts to address complex re
 
 <img src="https://github.com/MINE-Lab-ND/MINE-Lab-ND.github.io/blob/gh-pages/images/sponsor.png" alt="Example Image" style="width: 100%; height: auto;">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/{{sponsor.png}}"
+<img src="{{ site.url }}{{ site.baseurl}}/images/{{sponsor.png}}"
 alt="Example Image" style="width: 100%; height: auto;">
