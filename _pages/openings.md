@@ -6,14 +6,12 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# 🌟 Research Collaboration Opportunity for Aspiring Scholars  
+# 🌟 Join MINE Lab: Research Collaboration Opportunity 
 
 We are inviting **motivated undergraduates**, **master’s students**, and **PhD students** to join our research collaboration program. This is an opportunity to work on cutting-edge topics in AI with strong guidance and access to computational resources, aiming for high-quality research outcomes.   
 
 ## Research Focus  
-- Trustworthy LLMs: Fairness, robustness, and reliability in large language models.  
-- AI for Science: Applying AI to drive scientific discovery.  
-- Reasoning: Advancing logical reasoning and decision-making.  
+Please refer to [this page](https://mine-lab-nd.github.io/research/)
 
 ## Who Can Join  
 We welcome **dedicated researchers** who:  
