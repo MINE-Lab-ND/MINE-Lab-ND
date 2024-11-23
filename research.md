@@ -5,8 +5,9 @@ excerpt: "MINE Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
+
 <div style="position: absolute; top: 2px; left: 2px; max-width: 400px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: 100%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt="MINE Lab" style="width: auto; height: auto;">
 </div>
 
 <div style="margin-top: 150px;"></div>
