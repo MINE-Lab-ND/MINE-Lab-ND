@@ -1323,7 +1323,7 @@
     display: IEEE ICDE 2019
   highlight: 0
 
-  - title: "Mining top-k Popular Datasets via a Deep Generative Model"
+- title: "Mining top-k Popular Datasets via a Deep Generative Model"
   image:
   description:
   authors: Uchenna Akujuobi, Ke Sun, Xiangliang Zhang
