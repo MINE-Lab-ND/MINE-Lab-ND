@@ -1131,7 +1131,7 @@
   authors: Yujun Chen, Ke Sun, Juhua Pu, Zhang Xiong, Xiangliang Zhang
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0020025519309806
-    display: Information Sciences, 512: 1442-1457 (2020)
+    display: "Information Sciences, 512: 1442-1457 (2020)"
   highlight: 0
 
 - title: "Gaussian Mixture Embedding of Multiple Node Roles in Networks"
@@ -1140,7 +1140,7 @@
   authors: Yujun Chen, Juhua Pu, Xingwu Liu, Xiangliang Zhang
   link:
     url: https://link.springer.com/article/10.1007/s11280-019-00743-4
-    display: World Wide Web Journal, 23(2): 927-950 (2020)
+    display: "World Wide Web Journal, 23(2): 927-950 (2020)"
   highlight: 0
 
 - title: "Collaborative Graph Walk for Semi-supervised Multi-Label Node Classification"
