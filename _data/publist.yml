@@ -963,7 +963,7 @@
     display: ACM Transactions on Information Systems (TOIS), 2021
   highlight: 0
 
-  - title: "Temporal Positive-unlabeled Learning for Biomedical Hypothesis Generation via Risk Estimation"
+- title: "Temporal Positive-unlabeled Learning for Biomedical Hypothesis Generation via Risk Estimation"
   image:
   description:
   authors: Uchenna Akujuobi, Jun Chen, Mohamed Elhoseiny, Michael Spranger, Xiangliang Zhang
