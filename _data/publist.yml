@@ -8,7 +8,7 @@
   highlight: 1
   news1: 
 
-- title: "HonestLLM: Toward an Honest and Helpful Large Language Model"
+- title: "The Best of Both Worlds: Toward an Honest and Helpful Large Language Model"
   image: honest_architecture.png
   description: "The study refines principles for honest LLMs and identifies six scenarios requiring honesty. It introduces HONESET, a dataset of 930 queries, to evaluate LLM honesty. Two approaches are proposed to improve honesty and helpfulness: (1) Curiosity-Driven Prompting, a training-free method that encourages LLMs to express uncertainty and optimize responses; and (2) a two-stage fine-tuning approach, inspired by curriculum learning, to enhance LLM performance in these aspects."
   authors: Chujie Gao*, Siyuan Wu*, Yue Huang*, Dongping Chen*, Qihui Zhang*, Zhengyan Fu, Yao Wan, Lichao Sun, Xiangliang Zhang (*Equal Contribution)
@@ -54,11 +54,11 @@
   highlight: 1
 
 - title: "SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering"
-  image: sasrnet.pngzzzz
-  description: We introduce SaSR-Net, a source-aware semantic representation network to enhance performance in audio-visual question answering tasks.
+  image: SaSR.jpeg
+  description: we introduce the Source-aware Semantic Representation Network (SaSR-Net), a novel model designed for AVQA. SaSR-Net utilizes source-wise learnable tokens to efficiently capture and align audio-visual elements with the corresponding question.
   authors: Tianyu Yang, Yiyang Nan, Lisen Dai, Zhenwen Liang, Yapeng Tian, Xiangliang Zhang
   link:
-    url: 
+    url: https://arxiv.org/abs/2411.04933
     display: EMNLP 2024 Findings
   highlight: 1
 
@@ -67,7 +67,7 @@
   description: We propose a zero-shot relational learning approach for multimodal knowledge graphs, enabling relation prediction without training data.
   authors: Rui Cai, Shichao Pei, Xiangliang Zhang
   link:
-    url: 
+    url: https://arxiv.org/abs/2404.06220
     display: IEEE Big Data 2024 (Regular paper)
   highlight: 0
 
@@ -99,8 +99,8 @@
   highlight: 0
 
 - title: "FaDE: A Face Segment Driven Identity Anonymization Framework For Fair Face Recognition"
-  image: 
-  description: We present FaDE, a framework for identity anonymization that improves fairness in face recognition systems.
+  image: FaDE.png
+  description: We develop FaDE, a face segment driven identity anonymization framework that augments biased face image datasets by identifying specific face segments with diversified demographic characteristics from external face images but with least identity disclosure, and then reconstructing the segments to full face images with new identities.
   authors: Ziyi Kou, Yijun Tian, Meng Jiang, Xiangliang Zhang
   link:
     url: https://dl.acm.org/doi/10.1145/3627673.3679737
@@ -117,75 +117,48 @@
   highlight: 0
 
 - title: "LeMon: Automating Portrait Generation for Zero-Shot Story Visualization with Multi-Character Interactions"
-  image: 
-  description: We introduce LeMon, a framework for automating portrait generation in zero-shot story visualization involving multiple character interactions.
+  image: Lemon.png
+  description: we address the challenge of automated multi-character ZSV, aiming to create distinctive yet compatible character portraits for high-quality story visualization without the need of manual human interventions.
   authors: Ziyi Kou, Shichao Pei, Xiangliang Zhang
   link:
     url: https://dl.acm.org/doi/10.1145/3637528.3671850
     display: KDD 2024
   highlight: 1
 
-- title: "SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark"
-  image: 
-  description: We present SceMQA, a benchmark for evaluating multimodal question answering at a scientific college entrance level.
-  authors: Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, Tianyu Yang, Jiajun Jiao, Renjie Pi, Jipeng Zhang, Xiangliang Zhang
-  link:
-    url: https://arxiv.org/abs/2402.05138
-    display: ACL 2024
-  highlight: 1
-
-- title: "TrustLLM: Trustworthiness in Large Language Models"
-  image: 
-  description: We propose a set of principles for trustworthy LLMs, conducting a comprehensive survey and evaluation on the trustworthiness of LLMs, discussing progress and challenges.
-  authors: Yue Huang et al. (multiple authors including Xiangliang Zhang)
-  link:
-    url: https://icml.cc/virtual/2024/poster/33637
-    display: ICML 2024, HuggingFace Daily Paper No.1, Highlighted by United States Department of Homeland Security (DHS), Invited Talk at IBM Research
-  highlight: 1
-
-- title: "Attack-Free Evaluating and Enhancing Adversarial Robustness on Categorical Data"
-  image: 
-  description: We propose a method to evaluate and enhance adversarial robustness on categorical data without the need for attacks.
+  - title: "Attack-Free Evaluating and Enhancing Adversarial Robustness on Categorical Data"
+  image: IGSG.png
+  description: Our work aims to evaluate and enhance the robustness of classification over categorical attributes against adversarial perturbations through efficient attack-free approaches. We propose a robustness evaluation metric named Integrated Gradient-Smoothed Gradient (IGSG).
   authors: Yujun Zhou, Yufei Han, Haomin Zhuang, Hongyan Bao, Xiangliang Zhang
   link:
     url: https://icml.cc/virtual/2024/poster/34854
     display: ICML 2024
   highlight: 1
 
-- title: "A Property-Guided Diffusion Model for Generating Molecular Graphs"
-  image: 
-  description: We introduce a property-guided diffusion model to generate molecular graphs with desired chemical properties.
-  authors: Changsheng Ma, Taicheng Guo, Qiang Yang, Xiuying Chen, Xin Gao, Shangsong Liang, Nitesh Chawla, Xiangliang Zhang
+  - title: "TrustLLM: Trustworthiness in Large Language Models"
+  image: trustllm.png
+  description: This paper introduces TrustLLM, a comprehensive study of trustworthiness in LLMs, including principles for different dimensions of trustworthiness, established benchmark, evaluation, and analysis of trustworthiness for mainstream LLMs, and discussion of open challenges and future directions. Specifically, we first propose a set of principles for trustworthy LLMs that span eight different dimensions. Based on these principles, we further establish a benchmark across six dimensions including truthfulness, safety, fairness, robustness, privacy, and machine ethics. We then present a study evaluating 16 mainstream LLMs in TrustLLM, consisting of over 30 datasets.
+  authors: Yue Huang, Lichao Sun, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, Chao Zhang, Chaowei Xiao, Chunyuan Li, Eric Xing, Furong Huang, Hao Liu, Heng Ji, Hongyi Wang, Huan Zhang, Huaxiu Yao, Manolis Kellis, Marinka Zitnik, Meng Jiang, Mohit Bansal, James Zou, Jian Pei, Jian Liu, Jianfeng Gao, Jiawei Han, Jieyu Zhao, Jiliang Tang, Jindong Wang, John Mitchell, Kai Shu, Kaidi Xu, Kai-Wei Chang, Lifang He, Lifu Huang, Michael Backes, Neil Zhenqiang Gong, Philip S Yu, Pin-Yu Chen, Quanquan Gu, Ran Xu, Rex Ying, Shuiwang Ji, Suman Jana, Tianlong Chen, Tianming Liu, Tianyi Zhou, Willian Wang, Xiang Li, Xiangliang Zhang, Xiao Wang, Xing Xie, Xun Chen, Xuyu Wang, Yan Liu, Yanfang Ye, Yinzhi Cao, Yue Zhao
   link:
-    url: https://ieeexplore.ieee.org/document/10447350
-    display: IEEE ICASSP 2024
+    url: https://icml.cc/virtual/2024/poster/33637
+    display: ICML 2024, HuggingFace Daily Paper No.1, Highlighted by United States Department of Homeland Security (DHS), Invited Talk at IBM Research
   highlight: 1
 
-- title: "Think as People: Context-Driven Multi-Image News Captioning with Adaptive Dual Attention"
-  image: 
-  description: We propose a context-driven multi-image news captioning model with adaptive dual attention mechanisms.
-  authors: Qiang Yang, Xiaodong Wu, Xiuying Chen, Xin Gao, Xiangliang Zhang
+  - title: "Large Language Model Based Multi-Agents: A Survey of Progress and Challenges"
+  image: multi_agent_survey.png
+  description: we present this survey to offer an in-depth discussion on the essential aspects of multi-agent systems based on LLMs, as well as the challenges. Our goal is for readers to gain substantial insights on the following questions: What domains and environments do LLM-based multi-agents simulate? How are these agents profiled and how do they communicate? What mechanisms contribute to the growth of agents’ capacities?
+  authors: Taicheng Guo, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V Chawla, Olaf Wiest, Xiangliang Zhang
   link:
-    url: https://ieeexplore.ieee.org/document/10446024
-    display: IEEE ICASSP 2024
+    url: https://arxiv.org/abs/2402.01680
+    display: IJCAI 2024 (Survey Track)
   highlight: 1
 
-- title: "Uncertainty-Aware Yield Prediction with Multimodal Molecular Features"
-  image: 
-  description: We develop an uncertainty-aware model for chemical reaction yield prediction using multimodal molecular features.
-  authors: Jiayuan Chen, Kehan Guo, Zhen Liu, Olexandr Isayev, Xiangliang Zhang
+- title: "SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark"
+  image: SceMQA.png
+  description: The paper introduces SceMQA, a novel benchmark for scientific multimodal question answering at the college entrance level. It addresses a critical educational phase often overlooked in existing benchmarks, spanning high school to pre-college levels. 
+  authors: Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, Tianyu Yang, Jiajun Jiao, Renjie Pi, Jipeng Zhang, Xiangliang Zhang
   link:
-    url: https://ojs.aaai.org/index.php/AAAI/article/view/28668/29297
-    display: AAAI 2024
-  highlight: 1
-
-- title: "Are We Making Much Progress? Revisiting Chemical Reaction Yield Prediction from an Imbalanced Regression Perspective"
-  image: 
-  description: We revisit chemical reaction yield prediction by addressing challenges from imbalanced regression perspectives.
-  authors: Yihong Ma, Xiaobao Huang, Bozhao Nan, Nuno Moniz, Xiangliang Zhang, Olaf Wiest, Nitesh V. Chawla
-  link:
-    url: https://arxiv.org/abs/2402.05971
-    display: TheWebConf 2024 (Short paper)
+    url: https://arxiv.org/abs/2402.05138
+    display: ACL 2024
   highlight: 1
 
 - title: "Flexible and Adaptable Summarization via Expertise Separation"
@@ -195,17 +168,44 @@
   link:
     url: https://dl.acm.org/doi/10.1145/3626772.3657789
     display: SIGIR 2024
-  highlight: 1
-
-- title: "Large Language Model Based Multi-Agents: A Survey of Progress and Challenges"
+  highlight: 0
+  
+- title: "Are We Making Much Progress? Revisiting Chemical Reaction Yield Prediction from an Imbalanced Regression Perspective"
   image: 
-  description: We survey the progress and challenges of multi-agent systems based on large language models.
-  authors: Xiuying Chen, Mingzhe Li, Shen Gao, Xin Cheng, Qingqing Zhu, Rui Yan, Xin Gao, Xiangliang Zhang
+  description: We revisit chemical reaction yield prediction by addressing challenges from imbalanced regression perspectives.
+  authors: Yihong Ma, Xiaobao Huang, Bozhao Nan, Nuno Moniz, Xiangliang Zhang, Olaf Wiest, Nitesh V. Chawla
   link:
-    url: https://arxiv.org/abs/2402.01680
-    display: IJCAI 2024 (Survey Track)
-  highlight: 1
+    url: https://arxiv.org/abs/2402.05971
+    display: TheWebConf 2024 (Short paper)
+  highlight: 0
 
+- title: "Uncertainty-Aware Yield Prediction with Multimodal Molecular Features"
+  image: 
+  description: We develop an uncertainty-aware model for chemical reaction yield prediction using multimodal molecular features.
+  authors: Jiayuan Chen, Kehan Guo, Zhen Liu, Olexandr Isayev, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/28668/29297
+    display: AAAI 2024
+  highlight: 0
+
+- title: "A Property-Guided Diffusion Model for Generating Molecular Graphs"
+  image: 
+  description: We introduce a property-guided diffusion model to generate molecular graphs with desired chemical properties.
+  authors: Changsheng Ma, Taicheng Guo, Qiang Yang, Xiuying Chen, Xin Gao, Shangsong Liang, Nitesh Chawla, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/10447350
+    display: IEEE ICASSP 2024
+  highlight: 0
+  
+- title: "Think as People: Context-Driven Multi-Image News Captioning with Adaptive Dual Attention"
+  image: 
+  description: We propose a context-driven multi-image news captioning model with adaptive dual attention mechanisms.
+  authors: Qiang Yang, Xiaodong Wu, Xiuying Chen, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/10446024
+    display: IEEE ICASSP 2024
+  highlight: 0
+  
 - title: "Causality-Based Fair Multiple Decision by Response Functions"
   image: 
   description: We propose a causality-based framework for fair multiple decision-making using response functions.
@@ -213,7 +213,7 @@
   link:
     url: https://doi.org/10.1145/3632529
     display: ACM Transactions on Knowledge Discovery from Data (TKDD), 2024
-  highlight: 1
+  highlight: 0
 
 - title: "Gradient-Based Local Causal Structure Learning"
   image: 
@@ -222,7 +222,7 @@
   link:
     url: https://doi.org/10.1109/TCYB.2023.3237635
     display: IEEE Transactions on Cybernetics, 2024
-  highlight: 1
+  highlight: 0
 
 - title: "Personalized Federated Few-Shot Learning"
   image: 
@@ -231,4 +231,2049 @@
   link:
     url: https://doi.org/10.1109/TNNLS.2022.3190359
     display: IEEE Transactions on Neural Networks and Learning Systems, 2024
-  highlight: 1
+  highlight: 0
+
+- title: "Write Summary Step-by-Step: A Pilot Study of Stepwise Summarization"
+  image: 
+  description: We study a stepwise approach to summarization, generating summaries incrementally for improved coherence.
+  authors: Xiuying Chen, Shen Gao, Mingzhe Li, Qingqing Zhu, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://doi.org/10.1109/TASLP.2024.3357040
+    display: IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024
+  highlight: 0
+
+- title: "Forgetting User Preference in Recommendation Systems with Label-Flipping"
+  image: 
+  description: We propose a method to enable recommendation systems to forget user preferences using label-flipping techniques.
+  authors: Manal Alshehri, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/10386603
+    display: IEEE International Conference on Big Data 2023 (Regular Paper)
+  highlight: 0
+
+- title: "Let GPT be a Math Tutor: Teaching Math Word Problem Solvers with Customized Exercise Generation"
+  image: 
+  description: We leverage GPT to generate customized exercises for teaching math word problem solvers.
+  authors: Zhenwen Liang, Wenhao Yu, Tanmay Rajpurohit, Peter Clark, Xiangliang Zhang, Ashwin Kalyan
+  link:
+    url: https://aclanthology.org/2023.emnlp-main.889/
+    display: EMNLP 2023
+  highlight: 0
+
+- title: "UniMath: A Foundational and Multimodal Mathematical Reasoner"
+  image: 
+  description: We introduce UniMath, a foundational and multimodal mathematical reasoning system.
+  authors: Zhenwen Liang, Tianyu Yang, Jipeng Zhang, Xiangliang Zhang
+  link:
+    url: https://aclanthology.org/2023.emnlp-main.440/
+    display: EMNLP 2023
+  highlight: 0
+
+- title: "What can large language models do in chemistry? A comprehensive benchmark on eight tasks"
+  image: 
+  description: We present a comprehensive benchmark evaluating large language models on eight chemistry tasks.
+  authors: Taicheng Guo, Kehan Guo, Bozhao Nan, Zhenwen Liang, Zhichun Guo, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang
+  link:
+    url: https://papers.nips.cc/paper_files/paper/2023/hash/bbb330189ce02be00cf7346167028ab1-Abstract-Datasets_and_Benchmarks.html
+    display: NeurIPS 2023 Datasets and Benchmarks track
+  highlight: 0
+
+- title: "Modeling Sequential Collaborative User Behaviors for Seller-aware Next Basket Recommendation"
+  image: 
+  description: We propose a model that captures sequential collaborative user behaviors for seller-aware next basket recommendation.
+  authors: Ziyi Kou, Saurav Manchanda, Shih-Ting Lin, Min Xie, Haixun Wang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3583780.3614973
+    display: CIKM 2023
+  highlight: 0
+
+- title: "Neural Multi-hop Logical Query Answering with Concept-level Answers"
+  image: 
+  description: We develop a neural method for multi-hop logical query answering that provides concept-level answers.
+  authors: Zhenwei Tang, Shichao Pei, Xi Peng, Fuzhen Zhuang, Xiangliang Zhang, Robert Hoehndorf
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-47240-4_28
+    display: ISWC 2023
+  highlight: 0
+
+- title: "Few-shot Low-resource Knowledge Graph Completion with Multi-view Task Representation Generation"
+  image: 
+  description: We introduce a method for few-shot knowledge graph completion in low-resource settings using multi-view task representation generation.
+  authors: Shichao Pei, Ziyi Kou, Qiannan Zhang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3580305.3599350
+    display: KDD 2023
+  highlight: 0
+
+- title: "Counterfactual Learning on Heterogeneous Graphs with Greedy Perturbation"
+  image: 
+  description: We present a counterfactual learning approach on heterogeneous graphs using greedy perturbation methods.
+  authors: Qiang Yang, Changsheng Ma, Qiannan Zhang, Xin Gao, Chuxu Zhang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3580305.3599289
+    display: KDD 2023
+  highlight: 0
+
+- title: "Improving the Robustness of Summarization Systems with Dual Augmentation"
+  image: 
+  description: We propose a dual augmentation approach to enhance the robustness of summarization systems.
+  authors: Xiuying Chen, Guodong Long, Chongyang Tao, Mingzhe Li, Xin Gao, Chengqi Zhang, Xiangliang Zhang
+  link:
+    url: https://aclanthology.org/2023.acl-long.378/
+    display: ACL 2023
+  highlight: 0
+
+- title: "Compositional Mathematical Encoding for Math Word Problems"
+  image: 
+  description: We introduce a compositional mathematical encoding method to improve solving math word problems.
+  authors: Zhenwen Liang, Jipeng Zhang, Kehan Guo, Xiaodong Wu, Jie Shao, Xiangliang Zhang
+  link:
+    url: https://aclanthology.org/2023.findings-acl.635/
+    display: Findings of ACL 2023
+  highlight: 0
+
+- title: "Few-shot Low-resource Knowledge Graph Completion with Reinforced Task Generation"
+  image: 
+  description: We present a method for few-shot knowledge graph completion using reinforced task generation.
+  authors: Shichao Pei, Qiannan Zhang, Xiangliang Zhang
+  link:
+    url: https://aclanthology.org/2023.findings-acl.455
+    display: Findings of ACL 2023
+  highlight: 0
+
+- title: "Character As Pixels: A Controllable Prompt Adversarial Attacking Framework for Black-Box Text Guided Image Generation Models"
+  image: 
+  description: We propose a controllable prompt adversarial attack framework for black-box text-guided image generation models.
+  authors: Ziyi Kou, Shichao Pei, Yijun Tian, Xiangliang Zhang
+  link:
+    url: https://www.ijcai.org/proceedings/2023/0109.pdf
+    display: IJCAI 2023 Main Track
+  highlight: 0
+
+- title: "Graph-based Molecular Representation Learning"
+  image: 
+  description: We survey methods in graph-based molecular representation learning.
+  authors: Zhichun Guo, Kehan Guo, Bozhao Nan, Yijun Tian, Roshni Iyer, Yihong Ma, Olaf Wiest, Xiangliang Zhang, Wei Wang, Chuxu Zhang, Nitesh Chawla
+  link:
+    url: https://www.ijcai.org/proceedings/2023/0744.pdf
+    display: IJCAI 2023 (Survey Track)
+  highlight: 0
+
+- title: "A Topic-aware Summarization Framework with Different Modal Side Information"
+  image: 
+  description: We introduce a topic-aware summarization framework that leverages different modal side information.
+  authors: Xiuying Chen, Mingzhe Li, Shen Gao, Xin Cheng, Qiang Yang, Qishen Zhang, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3539618.3591630
+    display: SIGIR 2023 (Full paper)
+  highlight: 0
+
+- title: "LogicRec: Recommendation with Users’ Logical Requirements"
+  image: 
+  description: We propose LogicRec, a recommendation system that incorporates users' logical requirements.
+  authors: Zhenwei Tang, Griffin Floto, Armin Toroghi, Shichao Pei, Xiangliang Zhang, Scott Sanner
+  link:
+    url: https://dl.acm.org/doi/10.1145/3539618.3592012
+    display: SIGIR 2023 (Short paper)
+  highlight: 0
+
+- title: "Few-shot News Recommendation via Cross-lingual Transfer"
+  image: 
+  description: We explore few-shot news recommendation using cross-lingual transfer learning.
+  authors: Taicheng Guo, Lu Yu, Basem Shihada, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3543507.3583383
+    display: The Web Conference 2023
+  highlight: 0
+
+- title: "Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency"
+  image: 
+  description: We present a unified view on learning MLPs on graphs, discussing their effectiveness, robustness, and efficiency.
+  authors: Yijun Tian, Chuxu Zhang, Zhichun Guo, Xiangliang Zhang, Nitesh Chawla
+  link:
+    url: https://openreview.net/pdf?id=Cs3r5KLdoj
+    display: ICLR 2023 (Notable Top 25%)
+  highlight: 0
+
+- title: "Cross-domain Few-shot Graph Classification with a Reinforced Task Coordinator"
+  image: 
+  description: We propose a method for cross-domain few-shot graph classification using a reinforced task coordinator.
+  authors: Qiannan Zhang, Shichao Pei, Qiang Yang, Chuxu Zhang, Nitesh Chawla, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/25615
+    display: AAAI 2023
+  highlight: 0
+
+- title: "Towards Efficient and Domain-Agnostic Evasion Attack with High-dimensional Categorical Inputs"
+  image: 
+  description: We propose an efficient and domain-agnostic evasion attack method for models with high-dimensional categorical inputs.
+  authors: Hongyan Bao, Yufei Han, Yujun Zhou, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/25828/25600
+    display: AAAI 2023
+  highlight: 0
+
+- title: "Poisoning with Cerberus: Stealthy and Colluded Backdoor Attack against Federated Learning"
+  image: 
+  description: We reveal a stealthy and colluded backdoor attack against federated learning and propose defense strategies.
+  authors: Xiaoting Lyu, Yufei Han, Wei Wang, Jingkai Liu, Bin Wang, Jiqiang Liu, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/26083
+    display: AAAI 2023
+  highlight: 0
+
+- title: "Generalizing Math Word Problem Solvers via Solution Diversification"
+  image: 
+  description: We propose a method to generalize math word problem solvers by diversifying solutions.
+  authors: Zhenwen Liang, Jipeng Zhang, Lei Wang, Yan Wang, Jie Shao, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/26548/26320
+    display: AAAI 2023
+  highlight: 0
+
+- title: "Learning towards Selective Data Augmentation for Dialogue Generation"
+  image: 
+  description: We propose a method for selective data augmentation to improve dialogue generation.
+  authors: Xiuying Chen, Mingzhe Li, Jiayi Zhang, Xiaoqiang Xia, Chen Wei, Jianwei Cui, Xin Gao, Xiangliang Zhang, Rui Yan
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/26491/26263
+    display: AAAI 2023
+  highlight: 0
+
+- title: "Interpretable Research Interest Shift Detection with Temporal Heterogeneous Graphs"
+  image: 
+  description: We develop a method for detecting research interest shifts using interpretable temporal heterogeneous graphs.
+  authors: Qiang Yang, Changsheng Ma, Qiannan Zhang, Xin Gao, Chuxu Zhang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/pdf/10.1145/3539597.3570453
+    display: WSDM 2023
+  highlight: 0
+
+- title: "Telecommunication Traffic Forecasting via Multi-task Learning"
+  image: 
+  description: We propose a multi-task learning approach for forecasting telecommunication traffic.
+  authors: Xiaochuan Gou, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/pdf/10.1145/3539597.3570440
+    display: WSDM 2023
+  highlight: 0
+
+- title: "AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs"
+  image: 
+  description: We propose AdvCat, a domain-agnostic tool for assessing the robustness of cybersecurity-critical applications that utilize categorical data inputs.
+  authors: Helene Orsini, Hongyan Bao, Yujun Zhou, Xiangrui Xu, Yufei Han, Longyang Yi, Wei Wang, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/10021026
+    display: IEEE Big Data 2022 (Regular Paper)
+  highlight: 0
+
+- title: "QuoGNN: Quotient Graph Neural Network for Urban Flow Forecasting"
+  image: 
+  description: We introduce QuoGNN, a quotient graph neural network designed to enhance the accuracy of urban flow forecasting.
+  authors: Xiaochuan Gou, Peng Han, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/10020795
+    display: IEEE Big Data 2022 (Short Paper)
+  highlight: 0
+
+- title: "Analogical Math Word Problems Solving with Enhanced Problem-Solution Association"
+  image: 
+  description: We propose a method for solving analogical math word problems by enhancing the association between problems and their solutions.
+  authors: Zhenwen Liang, Jipeng Zhang, Xiangliang Zhang
+  link:
+    url: https://aclanthology.org/2022.emnlp-main.643/
+    display: EMNLP 2022 Main
+  highlight: 0
+
+- title: "Scientific Paper Extractive Summarization Enhanced by Citation Graphs"
+  image: 
+  description: We present an extractive summarization approach for scientific papers, enhanced using citation graphs to improve relevance.
+  authors: Xiuying Chen, Mingzhe Li, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://aclanthology.org/2022.emnlp-main.270/
+    display: EMNLP 2022 Main
+  highlight: 0
+
+- title: "ArtELingo: A Million Emotion Annotations of WikiArt with Emphasis on Diversity over Language and Culture"
+  image: 
+  description: We introduce ArtELingo, a dataset comprising a million emotion annotations for WikiArt paintings, emphasizing linguistic and cultural diversity.
+  authors: Youssef Sherif Mansour Mohamed, Shyma Yaser Alhuwaider, Mohamed Abdelfattah, Feifan Li, Kenneth Ward Church, Xiangliang Zhang, Mohamed Elhoseiny
+  link:
+    url: https://aclanthology.org/2022.emnlp-main.600/
+    display: EMNLP 2022 Main
+  highlight: 0
+
+- title: "Towards Improving Faithfulness in Abstractive Summarization"
+  image: 
+  description: We propose novel methods to enhance the faithfulness of abstractive summarization models.
+  authors: Xiuying Chen, Mingzhe Li, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://proceedings.neurips.cc/paper_files/paper/2022/file/9b6d7202750e8e32cd5270eb7fc131f7-Paper-Conference.pdf
+    display: NeurIPS 2022
+  highlight: 0
+
+- title: "DEMO: Disentangled Molecular Graph Generation via an Invertible Flow Model"
+  image: 
+  description: We introduce DEMO, a model that generates disentangled molecular graphs using an invertible flow mechanism.
+  authors: Changsheng Ma, Qiang Yang, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/pdf/10.1145/3511808.3557217
+    display: CIKM 2022
+  highlight: 0
+
+- title: "Generative Adversarial Zero-Shot Learning for Cold-Start News Recommendation"
+  image: 
+  description: We propose a generative adversarial zero-shot learning approach to tackle the cold-start problem in news recommendation systems.
+  authors: Manal Abdulaziz Alshehri, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/pdf/10.1145/3511808.3557335
+    display: CIKM 2022
+  highlight: 0
+
+- title: "A Biased Sampling Method for Imbalanced Personalized Ranking"
+  image: 
+  description: We introduce a biased sampling technique to address imbalanced data issues in personalized ranking tasks.
+  authors: Lu Yu, Shichao Pei, Feng Zhu, Longfei Li, Jun Zhou, Chuxu Zhang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3511808.3557218
+    display: CIKM 2022
+  highlight: 0
+
+- title: "Look Twice as Much as You Say: Scene Graph Contrastive Learning for Self-Supervised Image Caption Generation"
+  image: 
+  description: We propose a scene graph contrastive learning framework to enhance self-supervised image caption generation models.
+  authors: Chunhui Zhang, Chao Huang, Youhuan Li, Xiangliang Zhang, Yanfang Ye, Chuxu Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3511808.3557382
+    display: CIKM 2022
+  highlight: 0
+
+- title: "Few-shot Heterogeneous Graph Learning via Cross-domain Knowledge Transfer"
+  image: 
+  description: We present a method for few-shot learning on heterogeneous graphs by leveraging cross-domain knowledge transfer.
+  authors: Qiannan Zhang, Xiaodong Wu, Qiang Yang, Chuxu Zhang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3534678.3539431
+    display: KDD 2022 Research Track
+  highlight: 0
+
+- title: "Data-Driven Oracle Bone Rejoining: A Dataset and Practical Self-Supervised Learning Scheme"
+  image: 
+  description: We introduce a dataset and self-supervised learning scheme for rejoining oracle bones using data-driven methods.
+  authors: Chongsheng Zhang, Bin Wang, Ke Chen, Ruixing Zong, Bofeng Mo, Yi Men, George Almpanidis, Shanxiong Chen, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3534678.3539050
+    display: KDD 2022 Applied Data Science Track
+  highlight: 0
+
+- title: "Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion"
+  image: 
+  description: We propose a positive-unlabeled learning approach with adversarial data augmentation to improve knowledge graph completion.
+  authors: Zhenwei Tang, Shichao Pei, Zhao Zhang, Yongchun Zhu, Fuzhen Zhuang, Robert Hoehndorf, Xiangliang Zhang
+  link:
+    url: https://www.ijcai.org/proceedings/2022/0312.pdf
+    display: IJCAI 2022
+  highlight: 0
+
+- title: "Few-Shot Learning on Graphs: A Survey"
+  image: 
+  description: We provide a comprehensive survey on few-shot learning techniques applied to graph data.
+  authors: Chuxu Zhang, Kaize Ding, Jundong Li, Xiangliang Zhang, Yanfang Ye, Nitesh Chawla, Huan Liu
+  link:
+    url: https://www.ijcai.org/proceedings/2022/0789.pdf
+    display: IJCAI 2022 (Survey Track)
+  highlight: 0
+
+- title: "Target-aware Abstractive Related Work Generation with Contrastive Learning"
+  image: 
+  description: We introduce a target-aware approach for generating abstractive related work sections using contrastive learning.
+  authors: Xiuying Chen, Hind Alamro, Mingzhe Li, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3477495.3532065
+    display: SIGIR 2022
+  highlight: 0
+
+- title: "MWP-BERT: Numeracy-Augmented Pre-training for Math Word Problem Solving"
+  image: 
+  description: We present MWP-BERT, a numeracy-augmented pre-training model aimed at improving math word problem solving.
+  authors: Zhenwen Liang, Jipeng Zhang, Lei Wang, Wei Qin, Yunshi Lan, Jie Shao, Xiangliang Zhang
+  link:
+    url: https://aclanthology.org/2022.findings-naacl.74.pdf
+    display: Findings of NAACL 2022
+  highlight: 0
+
+- title: "ArMATH: a Dataset for Solving Arabic Math Word Problems"
+  image: 
+  description: We introduce ArMATH, a dataset designed for solving math word problems in Arabic.
+  authors: Reem Alghamdi, Zhenwen Liang, Xiangliang Zhang
+  link:
+    url: https://aclanthology.org/2022.lrec-1.37/
+    display: LREC 2022
+  highlight: 0
+  news1: Dataset is available at [GitHub](https://github.com/reem-codes/ArMATH)
+
+- title: "Towards Understanding the Robustness Against Evasion Attack on Categorical Data"
+  image: 
+  description: We study the robustness of machine learning models against evasion attacks on high-dimensional categorical data.
+  authors: Hongyan Bao, Yufei Han, Yujun Zhou, Yun Shen, Xiangliang Zhang
+  link:
+    url: https://openreview.net/pdf?id=BmJV7kyAmg
+    display: ICLR 2022
+  highlight: 0
+
+- title: "Graph Alignment with Noisy Supervision"
+  image: 
+  description: We propose a method for graph alignment that effectively handles noisy supervision signals.
+  authors: Shichao Pei, Lu Yu, Guoxian Yu, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3485447.3512089
+    display: TheWebConf 2022
+  highlight: 0
+
+- title: "Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order"
+  image: 
+  description: We present a model that generates both abstractive and extractive timeline summaries in chronological order.
+  authors: Xiuying Chen, Mingzhe Li, Shen Gao, Zhangming Chan, Dongyan Zhao, Xin Gao, Xiangliang Zhang, Rui Yan
+  link:
+    url: https://doi.org/10.1145/3517221
+    display: ACM Transactions on Information Systems (TOIS), February 2022
+  highlight: 0
+
+- title: "HG-Meta: Graph Meta-learning over Heterogeneous Graphs"
+  image: 
+  description: We introduce HG-Meta, a graph meta-learning framework designed for heterogeneous graphs.
+  authors: Qiannan Zhang, Xiaodong Wu, Qiang Yang, Chuxu Zhang, Xiangliang Zhang
+  link:
+    url: https://epubs.siam.org/doi/10.1137/1.9781611977172.45
+    display: SDM 2022
+  highlight: 0
+
+- title: "HGATE: Heterogeneous Graph Attention Auto-Encoders"
+  image: 
+  description: We propose HGATE, a heterogeneous graph attention auto-encoder for efficient graph representation learning.
+  authors: Wei Wang, Xiangyu Wei, Xiaoyang Suo, Bin Wang, Hao Wang, Hong-Ning Dai, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/9664297
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022
+  highlight: 0
+
+- title: "SAIL: Self-Augmented Graph Contrastive Learning"
+  image: 
+  description: We introduce SAIL, a self-augmented framework for graph contrastive learning to improve graph representations.
+  authors: Lu Yu, Shichao Pei, Lizhong Ding, Jun Zhou, Longfei Li, Chuxu Zhang, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/20875/20634
+    display: AAAI 2022
+  highlight: 0
+
+- title: "GNN-Retro: Retrosynthetic Planning with Graph Neural Networks"
+  image: 
+  description: We propose GNN-Retro, a graph neural network-based approach for retrosynthetic planning in computational chemistry.
+  authors: Peng Han, Peilin Zhao, Chan Lu, Junzhou Huang, Jiaxiang Wu, Shuo Shang, Bin Yao, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/20318
+    display: AAAI 2022
+  highlight: 0
+
+- title: "Interpretable Relation Learning on Heterogeneous Graphs"
+  image: 
+  description: We present an interpretable method for relation learning on heterogeneous graphs.
+  authors: Qiang Yang, Qiannan Zhang, Chuxu Zhang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3488560.3498508
+    display: WSDM 2022
+  highlight: 0
+
+- title: "Uniting Heterogeneity, Inductiveness, and Efficiency for Graph Representation Learning"
+  image:
+  description:
+  authors: Tong Chen, Hongzhi Yin, Jie Ren, Zi Huang, Xiangliang Zhang, Hao Wang
+  link:
+    url: https://doi.org/10.1109/TKDE.2021.3100529
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021
+  highlight: 0
+
+- title: "Low resistance asymmetric III-nitride tunnel junctions designed by machine learning"
+  image:
+  description:
+  authors: Rongyu Lin, Peng Han, Yue Wang, Ronghui Lin, Yi Lu, Zhiyuan Liu, Xiangliang Zhang, Xiaohang Li
+  link:
+    url: https://www.mdpi.com/2079-4991/11/10/2466
+    display: Nanomaterials, 2021, 11(10), 2466
+  highlight: 0
+
+- title: "Data-Efficient Language Shaped Few-shot Image Classification"
+  image:
+  description:
+  authors: Zhenwen Liang, Xiangliang Zhang
+  link:
+    url: https://aclanthology.org/2021.findings-emnlp.400/
+    display: Findings of EMNLP 2021
+  highlight: 0
+
+- title: "GF-VAE: A Flow-based Variational Autoencoder for Molecule Generation"
+  image:
+  description:
+  authors: Changsheng Ma, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3459637.3482260
+    display: CIKM 2021 (Full Paper)
+  highlight: 0
+
+- title: "Set-aware Entity Synonym Discovery with Flexible Receptive Fields"
+  image:
+  description:
+  authors: Shichao Pei, Lu Yu, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/9448379
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  highlight: 0
+
+- title: "Attack Transferability Characterization for Adversarially Robust Multi-label Classification"
+  image:
+  description:
+  authors: Zhuo Yang, Yufei Han, Xiangliang Zhang
+  link:
+    url: https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_129.pdf
+    display: ECML/PKDD 2021
+  highlight: 0
+
+- title: "A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks"
+  image:
+  description:
+  authors: Peng Han, Jin Wang, Di Yao, Shuo Shang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3447548.3467337
+    display: KDD 2021
+  highlight: 0
+
+- title: "Socially-Aware Self-Supervised Tri-Training for Recommendation"
+  image:
+  description:
+  authors: Junliang Yu, Hongzhi Yin, Min Gao, Xin Xia, Xiangliang Zhang, Quoc Viet Hung Nguyen
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3447548.3467340
+    display: KDD 2021
+  highlight: 0
+
+- title: "PAGE: A Simple and Optimal Probabilistic Gradient Estimator for Nonconvex Optimization"
+  image:
+  description:
+  authors: Zhize Li, Hongyan Bao, Xiangliang Zhang, Peter Richtárik
+  link:
+    url: http://proceedings.mlr.press/v139/li21a.html
+    display: ICML 2021 (Long Presentation)
+  highlight: 0
+
+- title: "Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation"
+  image:
+  description:
+  authors: Xiuying Chen, Hind Alamro, Mingzhe Li, Shen Gao, Xiangliang Zhang, Dongyan Zhao, Rui Yan
+  link:
+    url: https://aclanthology.org/2021.acl-long.473.pdf
+    display: ACL-IJCNLP 2021 Main Conference
+  highlight: 0
+
+- title: "Solving Math Word Problems with Teacher Supervision"
+  image:
+  description:
+  authors: Zhenwen Liang, Xiangliang Zhang
+  link:
+    url: https://www.ijcai.org/proceedings/2021/0485.pdf
+    display: IJCAI 2021
+  highlight: 0
+
+- title: "Rise and Fall of the Global Conversation and Shifting Sentiments During the COVID-19 Pandemic"
+  image:
+  description:
+  authors: Xiangliang Zhang, Qiang Yang, Somayah Albaradei, Xiaoting Lyu, Hind Alamro, Adil Salhi, Changsheng Ma, Manal Alshehri, Inji Ibrahim Jaber, Faroug Tifratene, Wei Wang, Takashi Gojobori, Carlos M. Duarte, Xin Gao
+  link:
+    url: https://www.nature.com/articles/s41599-021-00798-7
+    display: Humanities and Social Sciences Communications, 2021
+  highlight: 0
+
+- title: "The soundscape of the Anthropocene ocean"
+  image:
+  description:
+  authors: Carlos M. Duarte, Lucille Chapuis, Shaun P. Collin, Daniel P. Costa, Reny P. Devassy, Victor M. Eguíluz, Christine Erbe, Timothy A.C. Gordon, Benjamin S. Halpern, Harry R. Harding, Michelle N. Havlik, Mark Meekan, Nathan D. Merchant, Jennifer L. Miksis-Olds, Miles Parsons, Milica Predragovic, Andrew N. Radford, Craig A. Radford, Stephen D. Simpson, Hans Slabbekoorn, Erica Staaterman, Ilse C. Van Opzeeland, Jana Winderen, Xiangliang Zhang, Francis Juanes
+  link:
+    url: https://science.sciencemag.org/content/371/6529/eaba4658
+    display: Science, Vol 371, Issue 6529, 05 February 2021
+  highlight: 0
+
+- title: "Characterizing the Evasion Attackability of Multi-label Classifiers"
+  image:
+  description:
+  authors: Zhuo Yang, Yufei Han, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/17273
+    display: AAAI 2021
+  highlight: 0
+
+- title: "Does Head Label Help for Long-Tailed Multi-Label Text Classification"
+  image:
+  description:
+  authors: Lin Xiao, Xiangliang Zhang, Chi Huang, Mingyang Song, Liping Jing
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/17660
+    display: AAAI 2021
+  highlight: 0
+
+- title: "Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation"
+  image:
+  description:
+  authors: Xin Xia, Hongzhi Yin, Junliang Yu, Qinyong Wang, Lizhen Cui, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/16578
+    display: AAAI 2021
+  highlight: 0
+
+- title: "Deep Multi-type Objects Multi-view Multi-instance Multi-label Learning"
+  image:
+  description:
+  authors: Yuanlin Yang, Guoxian Yu, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://epubs.siam.org/doi/10.1137/1.9781611976700.55
+    display: SDM 2021
+  highlight: 0
+
+- title: "Graph Embedding for Recommendation against Attribute Inference Attacks"
+  image:
+  description:
+  authors: Shijie Zhang, Hongzhi Yin, Tong Chen, Zi Huang, Lizhen Cui, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3442381.3449813
+    display: The Web Conference 2021 (WWW 2021)
+  highlight: 0
+
+- title: "Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation"
+  image:
+  description:
+  authors: Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3442381.3449844
+    display: The Web Conference 2021 (WWW 2021)
+  highlight: 0
+
+- title: "Deterministic and probabilistic deep learning models for inverse design of broadband acoustic cloak"
+  image:
+  description:
+  authors: Waqas W. Ahmed, Mohamed Farhat, Xiangliang Zhang, Ying Wu
+  link:
+    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013142
+    display: Physical Review Research, Vol. 3, Issue 1, 013142, 2021
+  highlight: 0
+
+- title: "DDHH: A Decentralized Deep Learning Framework for Large-scale Heterogeneous Networks"
+  image:
+  description:
+  authors: Muhammad Imran, Hongzhi Yin, Tong Chen, Zi Huang, Xiangliang Zhang, Kai Zheng
+  link:
+    url: https://ieeexplore.ieee.org/document/9458648
+    display: IEEE ICDE 2021 (Short Paper)
+  highlight: 0
+
+- title: "PINE: Universal deep embedding for graph nodes via partial permutation invariant set functions"
+  image:
+  description:
+  authors: Shupeng Gui, Xiangliang Zhang, Pan Zhong, Shuang Qiu, Mingrui Wu, Jieping Ye, Zhengdao Wang, Ji Liu
+  link:
+    url: https://ieeexplore.ieee.org/document/9361263
+    display: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021
+  highlight: 0
+
+- title: "DeepIDA: Predicting Isoform-Disease Associations by Data Fusion and Deep Neural Networks"
+  image:
+  description:
+  authors: Guoxian Yu, Yeqian Yang, Yangyang Yan, Maozu Guo, Xiangliang Zhang, Jun Wang
+  link:
+    url: https://ieeexplore.ieee.org/document/9366975
+    display: IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021
+  highlight: 0
+
+- title: "Approximately Counting Butterflies in Large Bipartite Graph Streams"
+  image:
+  description:
+  authors: Rundong Li, Pinghui Wang, Peng Jia, Xiangliang Zhang, Junzhou Zhao, Jing Tao, Ye Yuan, Xiaohong Guan
+  link:
+    url: https://ieeexplore.ieee.org/document/9346044
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021
+  highlight: 0
+
+- title: "Multiview Multi-Instance Multilabel Active Learning"
+  image:
+  description:
+  authors: Guoxian Yu, Yuying Xing, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://doi.org/10.1109/TNNLS.2021.3056436
+    display: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021
+  highlight: 0
+
+- title: "Point-of-Interest Recommendation with Global and Local Context"
+  image:
+  description:
+  authors: Peng Han, Shuo Shang, Aixin Sun, Peilin Zhao, Kai Zheng, Xiangliang Zhang
+  link:
+    url: https://doi.org/10.1109/TKDE.2021.3059744
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021
+  highlight: 0
+
+- title: "Flexible Cross-Modal Hashing"
+  image:
+  description:
+  authors: Guoxian Yu, Xuanwu Liu, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://doi.org/10.1109/TNNLS.2020.3027729
+    display: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021
+  highlight: 0
+
+- title: "Representation Learning with Multi-level Attention for Activity Trajectory Similarity Computation"
+  image:
+  description:
+  authors: An Liu, Yifan Zhang, Xiangliang Zhang, Guanfeng Liu, Yanan Zhang, Zhixu Li, Lei Zhao, Qing Li, Xiaofang Zhou
+  link:
+    url: https://doi.org/10.1109/TKDE.2020.3010022
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021
+  highlight: 0
+
+- title: "CrowdWT: Crowdsourcing via Joint Modeling of Workers and Tasks"
+  image:
+  description:
+  authors: Jinzheng Tu, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Maozu Guo, Xiangliang Zhang
+  link:
+    url: https://doi.org/10.1145/3421712
+    display: ACM Transactions on Knowledge Discovery from Data (TKDD), 2021
+  highlight: 0
+
+- title: "CMAL: Cost-effective Multi-label Active Learning by Querying Subexamples"
+  image:
+  description:
+  authors: Guoxian Yu, Xia Chen, Carlotta Domeniconi, Jun Wang, Zhao Li, Zili Zhang, Xiangliang Zhang
+  link:
+    url: https://doi.org/10.1109/TKDE.2020.3003899
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021
+  highlight: 0
+
+- title: "CRSAL: Conversational Recommender Systems with Adversarial Learning"
+  image:
+  description:
+  authors: Xuhui Ren, Hongzhi Yin, Tong Chen, Hao Wang, Nguyen Quoc Viet Hung, Zi Huang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3394592
+    display: ACM Transactions on Information Systems (TOIS), 2021
+  highlight: 0
+
+  - title: "Temporal Positive-unlabeled Learning for Biomedical Hypothesis Generation via Risk Estimation"
+  image:
+  description:
+  authors: Uchenna Akujuobi, Jun Chen, Mohamed Elhoseiny, Michael Spranger, Xiangliang Zhang
+  link:
+    url: https://proceedings.neurips.cc/paper/2020/file/310614fca8fb8e5491295336298c340f-Review.html
+    display: NeurIPS 2020
+  highlight: 0
+
+- title: "T-PAIR: Temporal Node-pair Embedding for Automatic Biomedical Hypothesis Generation"
+  image:
+  description:
+  authors: Uchenna Akujuobi, Michael Spranger, Sucheendra K. Palaniappan, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/9170911
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020
+  highlight: 0
+
+- title: "Partial Multi-Label Learning using Label Compression"
+  image:
+  description:
+  authors: Yingting Yu, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/9338400
+    display: IEEE ICDM 2020 (Regular Paper)
+  highlight: 0
+
+- title: "Deep Incomplete Multi-View Multiple Clusterings"
+  image:
+  description:
+  authors: Shaowei Wei, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/9338286
+    display: IEEE ICDM 2020 (Regular Paper)
+  highlight: 0
+
+- title: "Mate-path Hierarchical Heterogeneous Graph Convolution Network for High Potential Scholar Recognition"
+  image:
+  description:
+  authors: Yiqing Wu, Ying Sun, Fuzhen Zhuang, Deqing Wang, Xiangliang Zhang, Qing He
+  link:
+    url: https://ieeexplore.ieee.org/document/9338394
+    display: IEEE ICDM 2020 (Short Paper)
+  highlight: 0
+
+- title: "Multi-type Objects Multi-view Multi-instance Multi-label Learning"
+  image:
+  description:
+  authors: Yuanlin Yang, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/9338294
+    display: IEEE ICDM 2020 (Short Paper)
+  highlight: 0
+
+- title: "Decentralized Embedding Framework for Large-Scale Networks"
+  image:
+  description:
+  authors: Mubashir Imran, Hongzhi Yin, Tong Chen, Yingxia Shao, Xiangliang Zhang, Xiaofang Zhou
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-59419-0_26
+    display: DASFAA 2020 (Best Student Paper Award)
+  highlight: 0
+
+- title: "Multi-modal Network Representation Learning"
+  image:
+  description:
+  authors: Chuxu Zhang, Meng Jiang, Xiangliang Zhang, Yanfang Ye, Nitesh V. Chawla
+  link:
+    url: https://dl.acm.org/doi/10.1145/3394486.3406475
+    display: KDD 2020 Tutorial
+  highlight: 0
+
+- title: "REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs"
+  image:
+  description:
+  authors: Shichao Pei, Lu Yu, Guoxian Yu, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3394486.3403268
+    display: KDD 2020
+  highlight: 0
+
+- title: "Attackability Characterization of Adversarial Evasion Attack on Discrete Data"
+  image:
+  description:
+  authors: Yutong Wang, Yufei Han, Hongyan Bao, Yun Shen, Fenglong Ma, Jin Li, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3394486.3403194
+    display: KDD 2020
+  highlight: 0
+
+- title: "Weakly-Supervised Multi-view Multi-instance Multi-label Learning"
+  image:
+  description:
+  authors: Yuying Xing, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://www.ijcai.org/proceedings/2020/0432.pdf
+    display: IJCAI 2020
+  highlight: 0
+
+- title: "Jointly Learning Representations of Nodes and Attributes for Attributed Networks"
+  image:
+  description:
+  authors: Zaiqiao Meng, Shangsong Liang, Xiangliang Zhang, Richard McCreadie, Iadh Ounis
+  link:
+    url: https://dl.acm.org/doi/10.1145/3377850
+    display: ACM Transactions on Information Systems (TOIS), 2020
+  highlight: 0
+
+- title: "Accurately Estimating User Cardinalities and Detecting Super Spreaders over Time"
+  image:
+  description:
+  authors: Peng Jia, Pinghui Wang, Yuchao Zhang, Xiangliang Zhang, Jing Tao, Jianwei Ding, Xiaohong Guan, Don Towsley
+  link:
+    url: https://doi.org/10.1109/TKDE.2020.2975625
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020
+  highlight: 0
+
+- title: "Risk Convergence of Centered Kernel Ridge Regression with Large Dimensional Data"
+  image:
+  description:
+  authors: Khalil Elkhalil, Abla Kammoun, Xiangliang Zhang, Mohamed-Slim Alouini, Tareq Al-Naffouri
+  link:
+    url: https://ieeexplore.ieee.org/document/9018066
+    display: IEEE Transactions on Signal Processing, 2020
+  highlight: 0
+
+- title: "Robust Federated Learning via Collaborative Machine Teaching"
+  image:
+  description:
+  authors: Yufei Han, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/5826
+    display: AAAI 2020
+  highlight: 0
+
+- title: "Multi-View Multiple Clusterings using Deep Matrix Factorization"
+  image:
+  description:
+  authors: Shaowei Wei, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/6104/5960
+    display: AAAI 2020
+  highlight: 0
+
+- title: "Recurrent Attention Walk for Semi-supervised Classification"
+  image:
+  description:
+  authors: Uchenna Akujuobi, Qiannan Zhang, Yufei Han, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3336191.3371853
+    display: WSDM 2020
+  highlight: 0
+
+- title: "Attention-Aware Answers of the Crowd"
+  image:
+  description:
+  authors: Jinzheng Tu, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.51
+    display: SDM 2020
+  highlight: 0
+
+- title: "GraPASA: Parametric Graph Embedding via Siamese Architecture"
+  image:
+  description:
+  authors: Yujun Chen, Ke Sun, Juhua Pu, Zhang Xiong, Xiangliang Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0020025519309806
+    display: Information Sciences, 512: 1442-1457 (2020)
+  highlight: 0
+
+- title: "Gaussian Mixture Embedding of Multiple Node Roles in Networks"
+  image:
+  description:
+  authors: Yujun Chen, Juhua Pu, Xingwu Liu, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s11280-019-00743-4
+    display: World Wide Web Journal, 23(2): 927-950 (2020)
+  highlight: 0
+
+- title: "Collaborative Graph Walk for Semi-supervised Multi-Label Node Classification"
+  image:
+  description:
+  authors: Uchenna Akujuobi, Yufei Han, Qiannan Zhang, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/8970680
+    display: IEEE ICDM 2019 (Regular Paper)
+  highlight: 0
+
+- title: "Dataset Recommendation via Variational Graph Autoencoder"
+  image:
+  description:
+  authors: Basmah Altaf, Uchenna Akujuobi, Lu Yu, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/8970775
+    display: IEEE ICDM 2019 (Regular Paper)
+  highlight: 0
+
+- title: "Cross-modal Zero-shot Hashing"
+  image:
+  description:
+  authors: Xuanwu Liu, Zhao Li, Jun Wang, Guoxian Yu, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/8970685
+    display: IEEE ICDM 2019 (Regular Paper)
+  highlight: 0
+
+- title: "AMENDER: an Attentive and Aggregate Multi-layered Network for Dataset Recommendation"
+  image:
+  description:
+  authors: Yujun Chen, Yuanhong Wang, Yutao Zhang, Juhua Pu, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/8970713
+    display: IEEE ICDM 2019 (Short Paper)
+  highlight: 0
+
+- title: "In2Rec: Influence-based Interpretable Recommendation"
+  image:
+  description:
+  authors: Huafeng Liu, Liping Jing, Jingxuan Wen, Jian Yu, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3357384.3358017
+    display: CIKM 2019
+  highlight: 0
+
+- title: "Improving Cross-lingual Entity Alignment via Optimal Transport"
+  image:
+  description:
+  authors: Shichao Pei, Lu Yu, Xiangliang Zhang
+  link:
+    url: https://www.ijcai.org/proceedings/2019/0448.pdf
+    display: IJCAI 2019
+  highlight: 0
+
+- title: "ActiveHNE: Active Heterogeneous Network Embedding"
+  image:
+  description:
+  authors: Xia Chen, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Zhao Li, Xiangliang Zhang
+  link:
+    url: https://www.ijcai.org/Proceedings/2019/0294.pdf
+    display: IJCAI 2019
+  highlight: 0
+
+- title: "Multi-View Multiple Clustering"
+  image:
+  description:
+  authors: Shixin Yao, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://www.ijcai.org/proceedings/2019/0572.pdf
+    display: IJCAI 2019
+  highlight: 0
+
+- title: "Interview Choice Reveals Your Preference on the Market: To Improve Job-Resume Matching through Profiling Memories"
+  image:
+  description:
+  authors: Rui Yan, Ran Le, Yang Song, Tao Zhang, Xiangliang Zhang, Dongyan Zhao
+  link:
+    url: https://dl.acm.org/doi/10.1145/3292500.3330963
+    display: KDD 2019
+  highlight: 0
+
+- title: "Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference"
+  image:
+  description:
+  authors: Shichao Pei, Lu Yu, Robert Hoehndorf, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3308558.3313646
+    display: The Web Conference 2019
+  highlight: 0
+
+- title: "Individuality and Commonality based Multi-View Multi-Label Learning"
+  image:
+  description:
+  authors: Qiaoyu Tan, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/8906215
+    display: IEEE Transactions on Cybernetics, 2019
+  highlight: 0
+
+- title: "A Novel Framework for Node/Edge Attributed Graph Embedding"
+  image:
+  description:
+  authors: Guolei Sun, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-16142-2_14
+    display: PAKDD 2019
+  highlight: 0
+
+- title: "Selective Matrix Factorization for Multi-Relational Data Fusion"
+  image:
+  description:
+  authors: Yuehui Wang, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang, Maozu Guo
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-18576-3_19
+    display: DASFAA 2019
+  highlight: 0
+
+- title: "SeqST-Resnet: A Sequential Spatial Temporal ResNet for Task Prediction in Spatial Crowdsourcing"
+  image:
+  description:
+  authors: Dongjun Zhai, An Liu, Shicheng Chen, Zhixu Li, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-18576-3_16
+    display: DASFAA 2019
+  highlight: 0
+
+- title: "Privacy Risk Analysis and Mitigation of Analytics Libraries in the Android Ecosystem"
+  image:
+  description:
+  authors: Xing Liu, Jiqiang Liu, Sencun Zhu, Wei Wang, Xiangliang Zhang
+  link:
+    url: https://doi.org/10.1109/TMC.2019.2903186
+    display: IEEE Transactions on Mobile Computing, 2019
+  highlight: 0
+
+- title: "Multi-order Attentive Ranking Model for Sequential Recommendation"
+  image:
+  description:
+  authors: Lu Yu, Chuxu Zhang, Shangsong Liang, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/4516
+    display: AAAI 2019
+  highlight: 0
+
+- title: "Submodular Optimization Over Streams with Inhomogeneous Decays"
+  image:
+  description:
+  authors: Junzhou Zhao, Shuo Shang, Pinghui Wang, John C.S. Lui, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/4535/4413
+    display: AAAI 2019
+  highlight: 0
+
+- title: "Co-Embedding Attributed Networks"
+  image:
+  description:
+  authors: Zaiqiao Meng, Shangsong Liang, Hongyan Bao, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3289600.3291015
+    display: WSDM 2019
+  highlight: 0
+
+- title: "Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks"
+  image:
+  description:
+  authors: Junzhou Zhao, Shuo Shang, Pinghui Wang, John C.S. Lui, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/8731541
+    display: IEEE ICDE 2019
+  highlight: 0
+
+- title: "Utilizing Dynamic Properties of Sharing Bits and Registers to Estimate User Cardinalities Over Time"
+  image:
+  description:
+  authors: Pinghui Wang, Peng Jia, Xiangliang Zhang, Jing Tao, Xiaohong Guan, Don Towsley
+  link:
+    url: https://ieeexplore.ieee.org/document/8731345
+    display: IEEE ICDE 2019
+  highlight: 0
+
+  - title: "Mining top-k Popular Datasets via a Deep Generative Model"
+  image:
+  description:
+  authors: Uchenna Akujuobi, Ke Sun, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/8621957
+    display: IEEE Big Data 2018
+  highlight: 0
+
+- title: "Spatio-Temporal Attention Based Recurrent Neural Network for Next POI Prediction"
+  image:
+  description:
+  authors: Basmah Altaf, Lu Yu, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/8622218
+    display: IEEE Big Data 2018
+  highlight: 0
+
+- title: "SNOD: A Fast Sampling Method of Exploring Node Orbit Degrees for Large Graphs"
+  image:
+  description:
+  authors: Pinghui Wang, Junzhou Zhao, Xiangliang Zhang, Jing Tao, Xiaohong Guan
+  link:
+    url: https://link.springer.com/article/10.1007/s10115-018-1301-z
+    display: Knowledge and Information Systems (KAIS), 61(1): 301-326, 2019
+  highlight: 0
+
+- title: "Dynamic Embeddings for User Profiling in Twitter"
+  image:
+  description:
+  authors: Shangsong Liang, Xiangliang Zhang, Zhaochun Ren, Evangelos Kanoulas
+  link:
+    url: https://dl.acm.org/doi/10.1145/3219819.3220043
+    display: KDD 2018
+  highlight: 0
+
+- title: "Multi-label Learning with Highly Incomplete Data via Collaborative Embedding"
+  image:
+  description:
+  authors: Yufei Han, Yun Shen, Guolei Sun, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3219819.3220038
+    display: KDD 2018
+  highlight: 0
+
+- title: "Mining Streaming and Temporal Data: From Representation to Knowledge"
+  image:
+  description:
+  authors: Xiangliang Zhang
+  link:
+    url: https://www.ijcai.org/proceedings/2018/0821.pdf
+    display: IJCAI-ECAI 2018 (Early Career Spotlight)
+  highlight: 0
+
+- title: "Task-Guided and Semantic-Aware Ranking for Academic Author-Paper Correlation Inference"
+  image:
+  description:
+  authors: Chuxu Zhang, Lu Yu, Xiangliang Zhang, Nitesh V. Chawla
+  link:
+    url: https://www.ijcai.org/proceedings/2018/0506.pdf
+    display: IJCAI-ECAI 2018
+  highlight: 0
+
+- title: "WalkRanker: A Unified Pairwise Ranking Model with Multiple Relations for Item Recommendation"
+  image:
+  description:
+  authors: Lu Yu, Chuxu Zhang, Shichao Pei, Guolei Sun, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/11866
+    display: AAAI 2018
+  highlight: 0
+
+- title: "Camel: Content-Aware and Meta-path Augmented Metric Learning for Author Identification"
+  image:
+  description:
+  authors: Chuxu Zhang, Chao Huang, Lu Yu, Xiangliang Zhang, Nitesh V. Chawla
+  link:
+    url: https://dl.acm.org/doi/10.1145/3178876.3186152
+    display: WWW 2018
+  highlight: 0
+
+- title: "Transfer Collaborative Filtering from Multiple Sources via Consensus Regularization"
+  image:
+  description:
+  authors: Fuzhen Zhuang, Jing Zheng, Jingwu Chen, Xiangliang Zhang, Chuan Shi, Qing He
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S089360801830248X
+    display: Neural Networks, Volume 108, December 2018, Pages 287-295
+  highlight: 0
+
+- title: "Protecting Multi-party Privacy in Location-Aware Social Point-of-Interest Recommendation"
+  image:
+  description:
+  authors: Weiqi Wang, An Liu, Zhixu Li, Xiangliang Zhang, Qing Li, Xiaofang Zhou
+  link:
+    url: https://link.springer.com/article/10.1007/s11280-018-0550-9
+    display: World Wide Web Journal, April 2018
+  highlight: 0
+
+- title: "DroidEnsemble: Detecting Android Malicious Applications with Ensemble of String and Structural Static Features"
+  image:
+  description:
+  authors: Wei Wang, Zhenzhen Gao, Meichen Zhao, Yidong Li, Jiqiang Liu, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/8357771
+    display: IEEE Access, Vol. 6, 2018
+  highlight: 0
+
+- title: "Use of Unmanned Aerial Vehicles for Efficient Beach Litter Monitoring"
+  image:
+  description:
+  authors: Cecilia Martin, Stephen Parkes, Qiannan Zhang, Xiangliang Zhang, Matthew McCabe, Carlos M. Duarte
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0025326X18302765
+    display: Marine Pollution Bulletin, Vol. 131, Part A, 2018
+  highlight: 0
+
+- title: "Randomizing SVM against Adversarial Attacks Under Uncertainty"
+  image:
+  description:
+  authors: Yan Chen, Wei Wang, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-93040-4_44
+    display: PAKDD 2018
+  highlight: 0
+
+- title: "A Privacy-Preserving Framework for Trust-Oriented Point-of-Interest Recommendation"
+  image:
+  description:
+  authors: An Liu, Weiqi Wang, Zhixu Li, Guanfeng Liu, Qing Li, Xiaofang Zhou, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/8078176
+    display: IEEE Access, Vol. 6, 2018
+  highlight: 0
+
+- title: "CreditCoin: A Privacy-Preserving Blockchain-based Incentive Announcement Network for Communications of Smart Vehicles"
+  image:
+  description:
+  authors: Lun Li, Jiqiang Liu, Lichen Cheng, Shuo Qiu, Wei Wang, Xiangliang Zhang, Zonghua Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/8267113
+    display: IEEE Transactions on Intelligent Transportation Systems, Vol. 19, No. 7, 2018
+  highlight: 0
+
+- title: "Detecting Android Malicious Apps and Categorizing Benign Apps with Ensemble of Classifiers"
+  image:
+  description:
+  authors: Wei Wang, Yuanyuan Li, Xing Wang, Jiqiang Liu, Xiangliang Zhang
+  link:
+    url: https://doi.org/10.1016/j.future.2017.01.019
+    display: Future Generation Computer Systems, Volume 78, 2018
+  highlight: 0
+
+- title: "Efficient Task Assignment in Spatial Crowdsourcing with Worker and Task Privacy Protection"
+  image:
+  description:
+  authors: An Liu, Weiqi Wang, Shuo Shang, Qing Li, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s10707-017-0305-2
+    display: GeoInformatica, Volume 22, Issue 2, 2018
+  highlight: 0
+
+- title: "Efficient Evaluation of Shortest Travel-Time Path Queries through Spatial Mashups"
+  image:
+  description:
+  authors: Detian Zhang, Chi-Yin Chow, An Liu, Xiangliang Zhang, Qingzhu Ding, Qing Li
+  link:
+    url: https://link.springer.com/article/10.1007/s10707-016-0288-4
+    display: GeoInformatica, Volume 22, Issue 1, 2018
+  highlight: 0
+
+- title: "Discovering and Understanding Android Sensor Usage Behaviors with Data Flow Analysis"
+  image:
+  description:
+  authors: Xing Liu, Jiqiang Liu, Wei Wang, Yongzhong He, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s11280-017-0446-0
+    display: World Wide Web Journal, Volume 21, Issue 1, 2018
+  highlight: 0
+
+- title: "Exploiting Reject Option in Classification for Social Discrimination Control"
+  image:
+  description:
+  authors: Faisal Kamiran, Sameen Mansha, Asim Karim, Xiangliang Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0020025517309830
+    display: Information Sciences, Volume 425, 2018
+  highlight: 0
+
+- title: "Abstracting Massive Data for Lightweight Intrusion Detection in Computer Networks"
+  image:
+  description:
+  authors: Wei Wang, Jiqiang Liu, Georgios Pitsilis, Xiangliang Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0020025516312385
+    display: Information Sciences, Volumes 433-434, 2018
+  highlight: 0
+
+- title: "Approximately Counting Triangles in Large Graph Streams Including Edge Duplicates with a Fixed Memory Usage"
+  image:
+  description:
+  authors: Pinghui Wang, Yiyan Qi, Yu Sun, Xiangliang Zhang, Jing Tao, Xiaohong Guan
+  link:
+    url: https://dl.acm.org/doi/10.14778/3149193.3149199
+    display: VLDB 2017, Volume 11, Issue 2
+  highlight: 0
+
+- title: "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs"
+  image:
+  description:
+  authors: Pinghui Wang, Junzhou Zhao, Xiangliang Zhang, Zhenguo Li, Jiefeng Cheng, John C.S. Lui, Don Towsley, Jing Tao, Xiaohong Guan
+  link:
+    url: https://ieeexplore.ieee.org/document/8051106
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 30(1): 73-86, 2017
+  highlight: 0
+
+- title: "ImWalkMF: Joint Matrix Factorization and Implicit Walk Integrative Learning for Recommendation"
+  image:
+  description:
+  authors: Chuxu Zhang, Lu Yu, Xiangliang Zhang, Nitesh V. Chawla
+  link:
+    url: https://ieeexplore.ieee.org/document/8258001
+    display: IEEE Big Data 2017
+  highlight: 0
+
+- title: "MARMITE: Spreading Malicious File Reputation Through Download Graphs"
+  image:
+  description:
+  authors: Gianluca Stringhini, Yun Shen, Yufei Han, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3134600.3134604
+    display: ACSAC 2017
+  highlight: 0
+
+- title: "Delve: A Dataset-Driven Scholarly Search and Analysis System"
+  image:
+  description:
+  authors: Uchenna Akujuobi, Xiangliang Zhang
+  link:
+    url: https://www.kdd.org/exploration_files/19-2-Article4.pdf
+    display: SIGKDD Explorations, Vol. 19, Issue 2, 2017
+  highlight: 0
+
+- title: "An Up-to-date Comparison of State-of-the-art Classification Algorithms"
+  image:
+  description:
+  authors: Chongsheng Zhang, Changchang Liu, Xiangliang Zhang, George Almpanidis
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0957417417302397
+    display: Expert Systems with Applications, 82: 128-150, 2017
+  highlight: 0
+
+- title: "Web-ADARE: A Web-aided Data Repairing System"
+  image:
+  description:
+  authors: Binbin Gu, Zhixu Li, Qiang Yang, Qing Xie, An Liu, Guanfeng Liu, Kai Zheng, Xiangliang Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0925231217304642
+    display: Neurocomputing, Volume 253, 2017
+  highlight: 0
+
+- title: "Characterizing Android Apps’ Behavior for Effective Detection of Malapps at Large Scale"
+  image:
+  description:
+  authors: Xing Wang, Wei Wang, Yongzhong He, Jiqiang Liu, Zhen Han, Xiangliang Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0167739X17307720
+    display: Future Generation Computer Systems, Volume 75, 2017
+  highlight: 0
+
+- title: "Modeling Temporal Behavior of Awards Effect on Viewership of Movies"
+  image:
+  description:
+  authors: Basmah Altaf, Faisal Kamiran, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-57454-7_56
+    display: PAKDD 2017
+  highlight: 0
+
+- title: "Privacy-preserving Task Assignment in Spatial Crowdsourcing"
+  image:
+  description:
+  authors: An Liu, Zhixu Li, Guanfeng Liu, Kai Zheng, Min Zhang, Qing Li, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s11390-017-1772-5
+    display: Journal of Computer Science and Technology, Volume 32, Issue 5, 2017
+  highlight: 0
+
+- title: "Collaborative User Network Embedding for Social Recommender Systems"
+  image:
+  description:
+  authors: Chuxu Zhang, Lu Yu, Yan Wang, Chirag Shah, Xiangliang Zhang
+  link:
+    url: https://epubs.siam.org/doi/10.1137/1.9781611974973.43
+    display: SDM 2017
+  highlight: 0
+
+- title: "KDE-Track: An Efficient Dynamic Density Estimator for Data Streams"
+  image:
+  description:
+  authors: Abdulhakim A. Qahtan, Suojin Wang, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/7738463
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 29, No. 3, 2017
+  highlight: 0
+
+- title: "When Differential Privacy Meets Randomized Perturbation: A Hybrid Approach for Privacy-Preserving Recommender System"
+  image:
+  description:
+  authors: Xiao Liu, An Liu, Xiangliang Zhang, Zhixu Li, Guanfeng Liu, Lei Zhao, Xiaofang Zhou
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-55753-3_36
+    display: DASFAA 2017
+  highlight: 0
+
+- title: "An Effective Suggestion Method for Keyword Search of Databases"
+  image:
+  description:
+  authors: Hai Huang, Zonghai Chen, Chengfei Liu, He Huang, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s11280-016-0413-1
+    display: World Wide Web Journal, Volume 20, Issue 4, 2017
+  highlight: 0
+
+- title: "The Interaction between Schema Matching and Record Matching in Data Integration"
+  image:
+  description:
+  authors: Binbin Gu, Zhixu Li, Xiangliang Zhang, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao, Xiaofang Zhou
+  link:
+    url: https://ieeexplore.ieee.org/document/7572193
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 29, No. 1, 2017
+  highlight: 0
+
+- title: "Learning from Your Network of Friends: A Trajectory Representation Learning Model Based on Online Social Ties"
+  image:
+  description:
+  authors: Basma Alharbi, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/7837903
+    display: IEEE ICDM 2016
+  highlight: 0
+
+- title: "Content-Agnostic Malware Detection in Heterogeneous Malicious Distribution Graph"
+  image:
+  description:
+  authors: Ibrahim Alabdulmohsin, Yufei Han, Yun Shen, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/2983323.2983700
+    display: CIKM 2016
+  highlight: 0
+
+- title: "Flash Flood Detection in Urban Cities Using Ultrasonic and Infrared Sensors"
+  image:
+  description:
+  authors: Mustafa Mousa, Xiangliang Zhang, Christian Claudel
+  link:
+    url: https://ieeexplore.ieee.org/document/7480790
+    display: IEEE Sensors Journal, Vol. 16, No. 19, 2016
+  highlight: 0
+
+- title: "Minimizing User Involvement for Learning Human Mobility Patterns from Location Traces"
+  image:
+  description:
+  authors: Basma Alharbi, Abdulhakim A. Qahtan, Xiangliang Zhang
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/10086
+    display: AAAI 2016
+  highlight: 0
+
+- title: "Large Margin Classification with Indefinite Similarities"
+  image:
+  description:
+  authors: Ibrahim M. Alabdulmohsin, Moustapha Cisse, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s10994-015-5542-8
+    display: Machine Learning Journal, 103(2): 215-237, 2016
+  highlight: 0
+
+- title: "Modeling and Predicting AD Progression by Regression Analysis of Sequential Clinical Data"
+  image:
+  description:
+  authors: Qing Xie, Su Wang, Jia Zhu, Xiangliang Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0925231215014080
+    display: Neurocomputing, Volume 195, 2016
+  highlight: 0
+
+- title: "Optimizing Cost of Continuous Overlapping Queries over Data Streams by Filter Adaptation"
+  image:
+  description:
+  authors: Qing Xie, Xiangliang Zhang, Zhixu Li, Xiaofang Zhou
+  link:
+    url: https://ieeexplore.ieee.org/document/7159474
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 28(5): 1258-1271, 2016
+  highlight: 0
+
+- title: "Is Attribute-Based Zero-Shot Learning an Ill-Posed Strategy?"
+  image:
+  description:
+  authors: Ibrahim M. Alabdulmohsin, Moustapha Cisse, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-46227-1_48
+    display: ECML PKDD 2016
+  highlight: 0
+
+- title: "CrowdAidRepair: A Crowd-Aided Interactive Data Repairing Method"
+  image:
+  description:
+  authors: Jian Zhou, Zhixu Li, Binbin Gu, Qing Xie, Jia Zhu, Xiangliang Zhang, Guoliang Li
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-32049-6_4
+    display: DASFAA 2016
+  highlight: 0
+
+- title: "Detecting Anomaly in Traffic Flow from Road Similarity Analysis"
+  image:
+  description:
+  authors: Xinran Liu, Xingwu Liu, Yuanhong Wang, Juhua Pu, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-39937-9_8
+    display: WAIM 2016
+  highlight: 0
+
+- title: "A PCA-Based Change Detection Framework for Multidimensional Data Streams"
+  image:
+  description:
+  authors: Abdulhakim A. Qahtan, Basma Alharbi, Suojin Wang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/2783258.2783407
+    display: KDD 2015
+  highlight: 0
+
+- title: "TRIP: An Interactive Retrieving-Inferring Data Imputation Approach"
+  image:
+  description:
+  authors: Zhixu Li, Lu Qin, Hong Cheng, Xiangliang Zhang, Xiaofang Zhou
+  link:
+    url: https://ieeexplore.ieee.org/document/7017733
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 27(9): 2550-2563, 2015
+  highlight: 0
+
+- title: "A Scalable Community Detection Algorithm for Large Graphs Using Stochastic Block Models"
+  image:
+  description:
+  authors: Chengbin Peng, Zhihua Zhang, Ka-Chun Wong, Xiangliang Zhang, David Keyes
+  link:
+    url: http://ijcai.org/papers15/Papers/IJCAI15-296.pdf
+    display: IJCAI 2015
+  highlight: 0
+
+- title: "Efficient Active Learning of Halfspaces via Query Synthesis"
+  image:
+  description:
+  authors: Ibrahim M. Alabdulmohsin, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9434
+    display: AAAI 2015
+  highlight: 0
+
+- title: "Addressing Instance Ambiguity in Web Harvesting"
+  image:
+  description:
+  authors: Zhixu Li, Xiangliang Zhang, Hai Huang, Qing Xie, Jia Zhu, Xiaofang Zhou
+  link:
+    url: http://webdb2015.cs.ucla.edu/proceedings/WebDB2015_paper_7.pdf
+    display: WebDB 2015
+  highlight: 0
+
+- title: "Support Vector Machines with Indefinite Kernels"
+  image:
+  description:
+  authors: Ibrahim M. Alabdulmohsin, Xin Gao, Xiangliang Zhang
+  link:
+    url: http://proceedings.mlr.press/v39/alabdulmohsin14.html
+    display: ACML 2014
+  highlight: 0
+
+- title: "Exploring Permission-Induced Risk in Android Applications for Malicious Application Detection"
+  image:
+  description:
+  authors: Wei Wang, Xing Wang, Dawei Feng, Jiqiang Liu, Zhan Han, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/6847113
+    display: IEEE Transactions on Information Forensics and Security (TIFS), 9(11): 1869-1882, 2014
+  highlight: 0
+
+- title: "Adding Robustness to Support Vector Machines Against Adversarial Reverse Engineering"
+  image:
+  description:
+  authors: Ibrahim M. Alabdulmohsin, Xin Gao, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/2661829.2661924
+    display: CIKM 2014
+  highlight: 0
+
+- title: "Autonomic Intrusion Detection: Adaptively Detecting Anomalies over Unlabeled Audit Data Streams in Computer Networks"
+  image:
+  description:
+  authors: Wei Wang, Thomas Guyet, René Quiniou, Marie-Odile Cordier, Florent Masseglia, Xiangliang Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0950705114002292
+    display: Knowledge-Based Systems, Volume 70, November 2014, Pages 103-117
+  highlight: 0
+
+- title: "Anti-discrimination Analysis Using Privacy Attack Strategies"
+  image:
+  description:
+  authors: Salvatore Ruggieri, Sara Hajian, Faisal Kamiran, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-662-44851-9_44
+    display: ECML PKDD 2014
+  highlight: 0
+
+- title: "Maximum Error-Bounded Piecewise Linear Representation for Online Stream Approximation"
+  image:
+  description:
+  authors: Qing Xie, Chaoyi Pang, Xiaofang Zhou, Xiangliang Zhang, Ke Deng
+  link:
+    url: https://link.springer.com/article/10.1007/s00778-014-0355-0
+    display: The VLDB Journal, Volume 23, Issue 6, December 2014
+  highlight: 0
+
+- title: "Data Stream Clustering with Affinity Propagation"
+  image:
+  description:
+  authors: Xiangliang Zhang, Cyril Furtlehner, Cécile Germain, Michèle Sebag
+  link:
+    url: https://ieeexplore.ieee.org/document/6542758
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 26(7): 1644-1656, 2014
+  highlight: 0
+
+- title: "TideWatch: Fingerprinting the Cyclicality of Big Data Workloads"
+  image:
+  description:
+  authors: Dan Williams, Shuai Zheng, Xiangliang Zhang, Hani Jamjoom
+  link:
+    url: https://ieeexplore.ieee.org/document/6848131
+    display: IEEE INFOCOM 2014
+  highlight: 0
+
+- title: "Cost Reduction for Web-based Data Imputation"
+  image:
+  description:
+  authors: Zhixu Li, Shuo Shang, Qing Xie, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-05813-9_31
+    display: DASFAA 2014
+  highlight: 0
+
+- title: "Overcoming Semantic Drift in Information Extraction"
+  image:
+  description:
+  authors: Zhixu Li, Hongsong Li, Haixun Wang, Yi Yang, Xiangliang Zhang, Xiaofang Zhou
+  link:
+    url: https://openproceedings.org/2014/conf/edbt/EDBT14_paper_85.pdf
+    display: EDBT 2014
+  highlight: 0
+
+- title: "Exploring the Significance of Human Mobility Patterns in Social Link Prediction"
+  image:
+  description:
+  authors: Basma Alharbi, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/2554850.2554934
+    display: ACM SAC 2014
+  highlight: 0
+
+- title: "Foreword to the Special Focus on Mathematics, Data and Knowledge"
+  image:
+  description:
+  authors: Xiaoyu Chen, Dongming Wang, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s11786-013-0169-2
+    display: Mathematics in Computer Science, Volume 7, Issue 4, 2013
+  highlight: 0
+
+- title: "Controlling Attribute Effect in Linear Regression"
+  image:
+  description:
+  authors: Toon Calders, Asim Karim, Faisal Kamiran, Wasif Ali, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/6729444
+    display: IEEE ICDM 2013
+  highlight: 0
+
+- title: "Automated Mining of Disease-Specific Protein Interaction Networks Based on Biomedical Literature"
+  image:
+  description:
+  authors: Rajesh Chowdhary, Boris R. Jankovic, Rachel V. Stankowski, John A.C. Archer, Xiangliang Zhang, Xin Gao, Vladimir B. Bajic
+  link:
+    url: https://www.worldscientific.com/doi/abs/10.1142/9789814551014_0014
+    display: Book Chapter in "Biological Data Mining and Its Applications in Healthcare", World Scientific, 2013
+  highlight: 0
+
+- title: "Local Correlation Detection with Linearity Enhancement in Streaming Data"
+  image:
+  description:
+  authors: Qing Xie, Shuo Shang, Bo Yuan, Chaoyi Pang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/2505515.2505564
+    display: CIKM 2013
+  highlight: 0
+
+- title: "Securing Recommender Systems against Shilling Attacks Using Social-based Clustering"
+  image:
+  description:
+  authors: Xiangliang Zhang, Tak Man Desmond Lee, Georgios Pitsilis
+  link:
+    url: https://link.springer.com/article/10.1007/s11390-013-1362-0
+    display: Journal of Computer Science and Technology, Volume 28, Issue 4, July 2013
+  highlight: 0
+
+- title: "Video Quality Prediction over Wireless 4G"
+  image:
+  description:
+  authors: Chun Pong Lau, Xiangliang Zhang, Basem Shihada
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-642-37456-2_35
+    display: PAKDD 2013
+  highlight: 0
+
+- title: "Decision Theory for Discrimination-aware Classification"
+  image:
+  description:
+  authors: Faisal Kamiran, Asim Karim, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/6413866
+    display: IEEE ICDM 2012
+  highlight: 0
+
+- title: "Multiplicative Algorithms for Constrained Non-negative Matrix Factorization"
+  image:
+  description:
+  authors: Chengbin Peng, Ka-Chun Wong, Alyn Rockwood, Xiangliang Zhang, Jinling Jiang, David Keyes
+  link:
+    url: https://ieeexplore.ieee.org/document/6413874
+    display: IEEE ICDM 2012
+  highlight: 0
+
+- title: "Efficient Estimation of Dynamic Density Functions with an Application to Outlier Detection"
+  image:
+  description:
+  authors: Abdulhakim Qahtan, Xiangliang Zhang, Suojin Wang
+  link:
+    url: https://dl.acm.org/doi/10.1145/2396761.2398602
+    display: CIKM 2012
+  highlight: 0
+
+- title: "A Direction Change-Based Algorithm for Polygonal Approximation"
+  image:
+  description:
+  authors: Han Liu, Xiangliang Zhang, Alyn Rockwood
+  link:
+    url: https://ieeexplore.ieee.org/document/6460874
+    display: ICPR 2012
+  highlight: 0
+
+- title: "Discovering Highly Informative Feature Set over High Dimensions"
+  image:
+  description:
+  authors: Chongsheng Zhang, Florent Masseglia, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/6498312
+    display: ICTAI 2012
+  highlight: 0
+
+- title: "Modeling and Clustering Users with Evolving Profiles in Usage Streams"
+  image:
+  description:
+  authors: Chongsheng Zhang, Florent Masseglia, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/6388088
+    display: TIME 2012
+  highlight: 0
+
+- title: "A Mouse-Trajectory Based Model for Predicting Query-URL Relevance"
+  image:
+  description:
+  authors: Hengjie Song, Ruoxue Liao, Xiangliang Zhang, Chunyan Miao, Qiang Yang
+  link:
+    url: https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4913
+    display: AAAI 2012
+  highlight: 0
+
+- title: "Virtual Machine Migration in an Over-committed Cloud"
+  image:
+  description:
+  authors: Xiangliang Zhang, Zon-Yin Shae, Shuai Zheng, Hani Jamjoom
+  link:
+    url: https://ieeexplore.ieee.org/document/6211926
+    display: IEEE NOMS 2012
+  highlight: 0
+
+- title: "Understanding and Analyzing Network Traffic"
+  image:
+  description:
+  authors: Wei Wang, Xiangliang Zhang, Wenchang Shi, Shiguo Lian, Dengguo Feng
+  link:
+    url: https://ieeexplore.ieee.org/document/6133220
+    display: IEEE Network, January 2012
+  highlight: 0
+
+- title: "Analysis and Modeling of Social Influence in High Performance Computing Workloads"
+  image:
+  description:
+  authors: Shuai Zheng, Zon-Yin Shae, Xiangliang Zhang, Hani Jamjoom, Liana Fong
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-642-29737-3_22
+    display: Euro-Par 2011
+  highlight: 0
+
+- title: "Clustering Recommenders in Collaborative Filtering Using Explicit Trust Information"
+  image:
+  description:
+  authors: Georgios Pitsilis, Xiangliang Zhang, Wei Wang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-642-22200-9_6
+    display: IFIPTM 2011
+  highlight: 0
+
+- title: "Network Traffic Monitoring, Analysis and Anomaly Detection"
+  image:
+  description:
+  authors: Wei Wang, Xiangliang Zhang, Wenchang Shi, Shiguo Lian, Dengguo Feng
+  link:
+    url: https://ieeexplore.ieee.org/document/5772971
+    display: IEEE Network, May 2011
+  highlight: 0
+
+- title: "High-speed Web Attack Detection through Extracting Exemplars from HTTP Traffic"
+  image:
+  description:
+  authors: Wei Wang, Xiangliang Zhang
+  link:
+    url: https://dl.acm.org/doi/10.1145/1982185.1982503
+    display: ACM SAC 2011
+  highlight: 0
+
+- title: "K-AP: Generating Specified K Clusters by Efficient Affinity Propagation"
+  image:
+  description:
+  authors: Xiangliang Zhang, Wei Wang, Kjetil Nørvåg, Michèle Sebag
+  link:
+    url: https://ieeexplore.ieee.org/document/5694017
+    display: IEEE ICDM 2010
+  highlight: 0
+
+- title: "Scaling Analysis of Affinity Propagation"
+  image:
+  description:
+  authors: Cyril Furtlehner, Michèle Sebag, Xiangliang Zhang
+  link:
+    url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.81.066102
+    display: Physical Review E, Vol. 81, 066102, 2010
+  highlight: 0
+
+- title: "Abstracting Audit Data for Lightweight Intrusion Detection"
+  image:
+  description:
+  authors: Wei Wang, Xiangliang Zhang, Georgios Pitsilis
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-642-17650-0_15
+    display: ICISS 2010
+  highlight: 0
+
+- title: "Self-adaptive Change Detection in Streaming Data with Non-stationary Distribution"
+  image:
+  description:
+  authors: Xiangliang Zhang, Wei Wang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-642-17316-5_32
+    display: ADMA 2010
+  highlight: 0
+
+- title: "Adaptively Detecting Changes in Autonomic Grid Computing"
+  image:
+  description:
+  authors: Xiangliang Zhang, Cécile Germain-Renaud, Michèle Sebag
+  link:
+    url: https://ieeexplore.ieee.org/document/5697062
+    display: IEEE GRID 2010 Workshop
+  highlight: 0
+
+- title: "Contributions to Large Scale Data Clustering and Streaming with Affinity Propagation. Application to Autonomic Grids."
+  image:
+  description:
+  authors: Xiangliang Zhang
+  link:
+    url: 
+    display: Ph.D. Thesis, INRIA and Université Paris-Sud 11, 2010
+  highlight: 0
+
+- title: "Toward Autonomic Grids: Analyzing the Job Flow with Affinity Streaming"
+  image:
+  description:
+  authors: Xiangliang Zhang, Cyril Furtlehner, Julien Perez, Cécile Germain, Michèle Sebag
+  link:
+    url: https://dl.acm.org/doi/10.1145/1557019.1557124
+    display: KDD 2009
+  highlight: 0
+
+- title: "Constructing Attribute Weights from Audit Data for Effective Intrusion Detection"
+  image:
+  description:
+  authors: Wei Wang, Xiangliang Zhang, Sylvain Gombault
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0164121209001446
+    display: Journal of Systems and Software, Vol. 82, No. 12, 2009
+  highlight: 0
+
+- title: "Attribute Normalization in Network Intrusion Detection"
+  image:
+  description:
+  authors: Wei Wang, Xiangliang Zhang, Sylvain Gombault, Svein J. Knapskog
+  link:
+    url: https://ieeexplore.ieee.org/document/5398255
+    display: I-SPAN 2009
+  highlight: 0
+
+- title: "G-StrAP: A 2-level Real-time Grid Monitoring System"
+  image:
+  description:
+  authors: Xiangliang Zhang, Cyril Furtlehner, Cécile Germain-Renaud, Michèle Sebag
+  link:
+    url: 
+    display: CAp 2009
+  highlight: 0
+
+- title: "Multi-scale Realtime Grid Monitoring with Job Stream Mining"
+  image:
+  description:
+  authors: Xiangliang Zhang, Michèle Sebag, Cécile Germain
+  link:
+    url: https://ieeexplore.ieee.org/document/5070408
+    display: IEEE/ACM CCGrid 2009
+  highlight: 0
+
+- title: "Fast Intrusion Detection Based on a Non-negative Matrix Factorization Model"
+  image:
+  description:
+  authors: Xiaohong Guan, Wei Wang, Xiangliang Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1084804508000835
+    display: Journal of Network and Computer Applications, Vol. 32, No. 1, 2009
+  highlight: 0
+
+- title: "Data Streaming with Affinity Propagation"
+  image:
+  description:
+  authors: Xiangliang Zhang, Cyril Furtlehner, Michèle Sebag
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-540-87481-2_41
+    display: ECML PKDD 2008
+  highlight: 0
+
+- title: "Distributed and Incremental Clustering Based on Weighted Affinity Propagation"
+  image:
+  description:
+  authors: Xiangliang Zhang, Cyril Furtlehner, Michèle Sebag
+  link:
+    url: https://ebooks.iospress.nl/volumearticle/4945
+    display: STAIRS 2008
+  highlight: 0
+
+- title: "Frugal and Online Affinity Propagation"
+  image:
+  description:
+  authors: Xiangliang Zhang, Cyril Furtlehner, Michèle Sebag
+  link:
+    url: 
+    display: CAp 2008
+  highlight: 0
+
+- title: "Modelling the Jobs of a Grid System"
+  image:
+  description:
+  authors: Xiangliang Zhang, Michèle Sebag, Cécile Germain
+  link:
+    url: 
+    display: RFIA 2008
+  highlight: 0
+
+- title: "Processing of Massive Audit Data Streams for Real-Time Anomaly Intrusion Detection"
+  image:
+  description:
+  authors: Wei Wang, Xiaohong Guan, Xiangliang Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0140366407001975
+    display: Computer Communications, Vol. 31, No. 1, 2008
+  highlight: 0
+
+- title: "Toward Behavioral Modeling of a Grid System: Mining the Logging and Bookkeeping Files"
+  image:
+  description:
+  authors: Xiangliang Zhang, Michèle Sebag, Cécile Germain
+  link:
+    url: https://ieeexplore.ieee.org/document/4752992
+    display: IEEE ICDM Workshop DSMM 2007
+  highlight: 0
+
+- title: "Tomography Experiment of an Integrated Circuit Specimen Using 3 MeV Electrons in the Transmission Electron Microscope"
+  image:
+  description:
+  authors: Haibo Zhang, Xiangliang Zhang, Yong Wang, Akio Takaoka
+  link:
+    url: https://aip.scitation.org/doi/10.1063/1.2400221
+    display: Review of Scientific Instruments, Vol. 78, 013701, 2007
+  highlight: 0
+
+- title: "Profiling Program Behavior for Anomaly Intrusion Detection Based on the Transition and Frequency Property of Computer Audit Data"
+  image:
+  description:
+  authors: Wei Wang, Xiaohong Guan, Xiangliang Zhang, Liwei Yang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0167404806000724
+    display: Computers & Security, Vol. 25, No. 7, 2006
+  highlight: 0
+
+- title: "Profiling Program and User Behaviors for Anomaly Intrusion Detection Based on Non-negative Matrix Factorization"
+  image:
+  description:
+  authors: Wei Wang, Xiaohong Guan, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/1390614
+    display: IEEE CDC 2004
+  highlight: 0
+
+- title: "A Novel Intrusion Detection Method Based on Principal Component Analysis in Computer Security"
+  image:
+  description:
+  authors: Wei Wang, Xiaohong Guan, Xiangliang Zhang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-540-28648-6_103
+    display: ISNN 2004
+  highlight: 0
+
+- title: "Modeling Program Behaviors by Hidden Markov Models for Intrusion Detection"
+  image:
+  description:
+  authors: Wei Wang, Xiaohong Guan, Xiangliang Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/1372368
+    display: IEEE ICMLC 2004
+  highlight: 0
+
+
+
+
+
+
+
+
+
+ 
