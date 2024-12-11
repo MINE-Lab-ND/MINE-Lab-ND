@@ -45,7 +45,7 @@ permalink: /vacancies
   <!-- Application Process Section -->
   <h2 style="margin-top: 40px; font-size: 1.5em;">Application Process</h2>
   <p style="font-size: 1em; margin-bottom: 30px;">
-    If you are interested, please complete this <a href="https://forms.gle/PYBtziFuXmKKodsD9" target="_blank" style="color: #0066cc; text-decoration: none;"><strong>Google Form</strong></a> 
+    If you are interested, please complete this <a href="https://forms.gle/5Tbm3NfKCAaFMMnE7" target="_blank" style="color: #0066cc; text-decoration: none;"><strong>Google Form</strong></a> 
     and provide a brief introduction, your background, and research interests.
   </p>
   
