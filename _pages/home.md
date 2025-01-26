@@ -30,15 +30,17 @@ At the MINE lab, we cultivate a spirit of curiosity and exploration, where ideas
 
 ### News
 
+**Jan. 2025** We have multiple papers accepted by top conferences/journals: two for ICLR 2025 (congratulations to Yue Huang), one for AAAI 2025, two for TheWebConf2025, one for AISTATS 2025, one for ACM Computing Surveys, one for Communications Chemistry, and one for Light: Science & Applications.
+
 **Nov. 2024** One paper is accepted by WSDM Demo 2025. Congratulations to Xiangqi.
 
 **Sep. 2024** Three papers are accepted by NeurIPS 2024 (1 spotlight and 2 poster). Congratulations to Kehan and Yue Huang. 
 
-**Sep. 2024** Four papers are accepted by EMNLP 2024. Congratulations to Yujun, Yue Huang, Ziyi and Tianyu. 
+**Sep. 2024** Four papers are accepted by EMNLP 2024. Congratulations to Yujun, Yue Huang, Ziyi, and Tianyu. 
 
-**Sep. 2024** We launch the IEEE CS North America Student Challenge 2024 today. Welcome to participate the competition on Inferring User Latent Preference from Conversations with LLM, and win the prize.
+**Sep. 2024** We launch the IEEE CS North America Student Challenge 2024 today. Welcome to participate in the competition on Inferring User Latent Preference from Conversations with LLM, and win the prize.
 
-**Jul. 2024** Two papers are accepted by CIKM 2024, one paper is accepted by USENIX Security 2024, and one paper is accepted by  Journal of the American Chemical Society (JACS).
+**Jul. 2024** Two papers are accepted by CIKM 2024, one paper is accepted by USENIX Security 2024, and one paper is accepted by Journal of the American Chemical Society (JACS).
 
 **Jul. 2024** Dr. Zhang is the co-investigator of the first Seed Transformative Interdisciplinary Research (STIR) grants (Project: atomic scale analog computing and physical neural networks).
 
